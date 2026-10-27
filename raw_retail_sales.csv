@@ -1,0 +1,1506 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,discount_pct,city,state,sales_channel,payment_method,order_status
+ORD100000,2023-08-17,C1091,P1010,Laptop Stand,Electronics,1,1704.47,0.15,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD100001,2023-07-29,C1043,P1012,Monitor,Electronics,2,13696.15,0.0,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD100002,2024-03-23,C1182,P1005,Gel Pen Pack,Stationery,1,160.55,0.1,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD100003,2025-05-09,C1371,P1005,Gel Pen Pack,Stationery,1,157.18,0.0,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100004,2023-11-23,C1031,P1010,Laptop Stand,Electronics,2,1677.15,0.05,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100005,2024-11-20,C1437,P1011,Office Backpack,Lifestyle,2,2095.84,0.1,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100006,2024-12-05,C1165,P1001,Wireless Mouse,Electronics,1,827.86,0.15,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100007,2023-09-13,C1436,P1004,Notebook Set,Stationery,1,298.95,0.0,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD100008,2025-01-10,C1424,P1002,USB-C Hub,Electronics,1,1893.14,0.1,Bengaluru,Karnataka,Website,Credit Card,Delivered
+ORD100009,2024-08-15,C1197,P1010,Laptop Stand,Electronics,2,1555.99,0.15,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100010,2024-07-23,C1287,P1010,Laptop Stand,Electronics,1,1549.46,0.15,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD100011,2024-03-05,C1063,P1002,USB-C Hub,Electronics,1,2001.12,0.1,Delhi,Delhi,Website,Credit Card,Delivered
+ORD100012,2025-12-29,C1017,P1009,Water Bottle,Lifestyle,2,517.93,0.1,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD100013,2024-03-25,C1063,P1001,Wireless Mouse,Electronics,2,799.07,0.1,Hyderabad,Telangana,Website,UPI,Delivered
+ORD100014,2024-10-08,C1358,P1010,Laptop Stand,Electronics,2,1621.56,0.1,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100015,2024-10-06,C1137,P1001,Wireless Mouse,Electronics,1,764.23,0.05,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD100016,2023-10-20,C1413,P1011,Office Backpack,Lifestyle,1,2044.88,0.05,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100017,2024-06-22,C1133,P1008,LED Desk Lamp,Home Office,1,1368.19,0.1,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100018,2025-11-09,C1048,P1005,Gel Pen Pack,Stationery,2,146.96,0.0,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100019,2023-11-10,C1041,P1009,Water Bottle,Lifestyle,1,472.76,0.1,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100020,2025-02-20,C1108,P1002,USB-C Hub,Electronics,2,1966.75,0.05,Kolkata,West Bengal,Mobile App,UPI,Returned
+ORD100021,2023-08-23,C1136,P1008,LED Desk Lamp,Home Office,1,1214.44,0.0,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100022,2023-11-20,C1344,P1012,Monitor,Electronics,3,13505.31,0.0,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD100023,2025-10-22,C1437,P1010,Laptop Stand,Electronics,2,1656.96,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100024,2025-11-05,C1325,P1001,Wireless Mouse,Electronics,3,828.87,0.0,bengaluru,Karnataka,Marketplace,Credit Card,Delivered
+ORD100025,2025-12-22,C1138,P1007,Ergonomic Chair,Furniture,1,9973.13,0.15,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100026,2025-01-13,C1043,P1009,Water Bottle,Lifestyle,1,532.78,0.1,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100027,2023-06-11,C1293,P1001,Wireless Mouse,Electronics,1,740.73,0.1,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100028,2023-09-15,C1358,P1004,Notebook Set,Stationery,1,280.34,0.1,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100029,2024-06-26,C1077,P1012,Monitor,Electronics,2,12725.6,0.1,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100030,2024-09-30,C1030,P1001,Wireless Mouse,Electronics,4,800.59,0.15,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100031,2025-07-13,C1038,P1006,Desk Organizer,Home Office,1,672.44,0.1,Mumbai,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100032,2023-02-13,C1383,P1006,Desk Organizer,Home Office,1,584.84,0.1,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD100033,2024-04-13,C1198,P1001,Wireless Mouse,Electronics,3,856.81,0.0,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD100034,2025-11-18,C1110,P1007,Ergonomic Chair,Furniture,1,9679.79,0.05,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100035,2023-09-28,C1297,P1009,Water Bottle,Lifestyle,2,468.22,0.2,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100036,2024-01-25,C1140,P1003,Bluetooth Speaker,Electronics,1,2534.8,0.05,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100037,2025-05-17,C1374,P1010,Laptop Stand,Electronics,1,1799.31,0.05,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100038,2023-07-21,C1240,P1006,Desk Organizer,Home Office,1,646.4,0.0,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD100039,2024-05-24,C1021,P1005,Gel Pen Pack,Stationery,5,159.67,0.15,Bengaluru,Karnataka,Marketplace,Credit Card,Delivered
+ORD100040,2025-05-14,C1010,P1011,Office Backpack,Lifestyle,3,2305.72,0.05,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100041,2025-06-26,C1348,P1008,LED Desk Lamp,Home Office,1,1264.58,0.15,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100042,2023-01-31,C1031,P1003,Bluetooth Speaker,Electronics,4,2401.45,0.0,mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100043,2025-09-12,C1375,P1002,USB-C Hub,Electronics,1,2018.2,0.2,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100044,2025-02-15,C1225,P1002,USB-C Hub,Electronics,1,2077.97,0.25,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD100045,2024-08-07,C1226,P1002,USB-C Hub,Electronics,1,1821.22,0.0,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100046,2024-03-21,C1345,P1009,Water Bottle,Lifestyle,1,502.03,0.15,Ahmedabad,Gujarat,Website,UPI,Delivered
+ORD100047,2023-04-13,C1262,P1002,USB-C Hub,Electronics,2,1978.03,0.15,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD100048,2023-06-14,C1438,P1002,USB-C Hub,Electronics,1,2046.53,0.05,Pune,Maharashtra,Website,Credit Card,Delivered
+ORD100049,2025-04-06,C1136,P1006,Desk Organizer,Home Office,2,674.33,0.05,Mumbai,Maharashtra,Marketplace,UPI,Delivered
+ORD100050,2023-06-17,C1379,P1012,Monitor,Electronics,1,13185.97,0.1,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100051,2024-10-05,C1048,P1002,USB-C Hub,Electronics,1,2059.01,0.1,Bengaluru,Karnataka,Mobile App,Debit Card,Delivered
+ORD100052,2025-07-25,C1382,P1012,Monitor,Electronics,2,13511.59,0.15,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100053,2023-07-24,C1009,P1001,Wireless Mouse,Electronics,3,843.31,0.0,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100054,2024-12-15,C1131,P1006,Desk Organizer,Home Office,2,639.44,0.1,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100055,2025-06-16,C1186,P1005,Gel Pen Pack,Stationery,1,159.73,0.2,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100056,2024-09-05,C1379,P1005,Gel Pen Pack,Stationery,1,143.07,0.15,Mumbai,Maharashtra,Marketplace,UPI,Delivered
+ORD100057,2023-11-15,C1368,P1001,Wireless Mouse,Electronics,1,815.82,0.0,Delhi,Delhi,Mobile App,Debit Card,Delivered
+ORD100058,2024-02-21,C1270,P1010,Laptop Stand,ELECTRONICS,1,1510.19,0.2,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100059,2023-07-09,C1075,P1004,Notebook Set,Stationery,1,280.95,0.0,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100060,2023-09-25,C1233,P1001,Wireless Mouse,Electronics,1,742.33,0.1,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100061,2025-05-25,C1307,P1005,Gel Pen Pack,Stationery,1,155.85,0.2,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100062,2023-03-15,C1103,P1011,Office Backpack,Lifestyle,1,2090.93,0.0,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD100063,2024-09-23,C1113,P1007,Ergonomic Chair,Furniture,1,8354.43,0.05,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100064,2024-05-26,C1182,P1006,Desk Organizer,Home Office,1,635.95,0.0,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100065,2023-11-13,C1417,P1001,Wireless Mouse,Electronics,3,857.69,0.25,Bengaluru,Karnataka,Marketplace,Credit Card,Returned
+ORD100066,2025-04-24,C1333,P1010,Laptop Stand,Electronics,2,1711.56,0.15,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD100067,2025-04-23,C1061,P1006,Desk Organizer,Home Office,1,663.95,0.1,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100068,2025-02-22,C1196,P1005,Gel Pen Pack,Stationery,2,149.58,0.0,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD100069,2024-12-17,C1216,P1005,Gel Pen Pack,Stationery,1,146.39,0.05,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100070,2025-03-27,C1357,P1004,Notebook Set,Stationery,1,322.34,0.05,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100071,2024-12-20,C1427,P1011,Office Backpack,Lifestyle,1,2145.83,0.1,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100072,2024-06-18,C1345,P1011,Office Backpack,Lifestyle,2,2323.79,0.1,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100073,2025-06-08,C1285,P1004,Notebook Set,Stationery,2,296.78,0.15,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100074,2023-08-25,C1280,P1011,Office Backpack,Lifestyle,1,2252.75,0.0,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100075,2023-01-04,C1327,P1001,Wireless Mouse,Electronics,4,753.74,0.25,Bengaluru,Karnataka,Mobile App,Debit Card,Delivered
+ORD100076,2024-10-04,C1420,P1010,Laptop Stand,Electronics,2,1683.82,0.15,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100077,2024-10-30,C1426,P1003,Bluetooth Speaker,Electronics,2,2339.46,0.1,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100078,2025-05-11,C1306,P1002,USB-C Hub,Electronics,1,2009.16,0.1,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100079,2025-04-11,C1236,P1010,Laptop Stand,Electronics,2,1669.05,0.1,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100080,2024-10-21,C1220,P1012,Monitor,Electronics,1,12217.86,0.0,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100081,2025-11-12,C1297,P1005,Gel Pen Pack,Stationery,2,160.24,0.05,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD100082,2025-11-21,C1240,P1011,Office Backpack,Lifestyle,2,2209.18,0.05,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100083,2024-09-27,C1142,P1002,USB-C Hub,Electronics,1,2049.29,0.1,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD100084,2024-05-16,C1163,P1005,Gel Pen Pack,Stationery,2,151.09,0.2,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100085,2024-02-03,C1352,P1006,Desk Organizer,Home Office,1,651.55,0.15,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100086,2023-01-12,C1056,P1012,Monitor,Electronics,1,13838.61,0.1,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100087,2025-08-09,C1055,P1007,Ergonomic Chair,Furniture,2,8629.82,0.1,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD100088,2025-07-23,C1006,P1010,Laptop Stand,Electronics,1,1659.56,0.1,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100089,2024-10-11,C1136,P1011,Office Backpack,Lifestyle,2,2064.42,0.25,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD100090,2025-07-02,C1300,P1011,Office Backpack,Lifestyle,1,2429.38,0.0,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100091,2024-07-21,C1450,P1008,LED Desk Lamp,Home Office,2,1215.05,,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100092,2024-08-08,C1364,P1001,Wireless Mouse,Electronics,1,754.51,0.15,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD100093,2023-06-15,C1090,P1011,Office Backpack,Lifestyle,2,2036.6,0.0,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100094,2024-03-14,C1130,P1001,Wireless Mouse,Electronics,2,843.95,0.0,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100095,2025-08-12,C1383,P1001,Wireless Mouse,Electronics,2,895.54,0.15,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD100096,2025-03-08,C1052,P1009,Water Bottle,Lifestyle,3,480.99,0.0,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD100097,2024-09-03,C1057,P1006,Desk Organizer,Home Office,2,615.23,0.2,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD100098,2024-03-27,C1045,P1002,USB-C Hub,Electronics,2,1809.4,0.0,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100099,2023-03-01,C1320,P1012,Monitor,Electronics,2,12079.52,0.1,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100100,2023-12-05,C1168,P1001,Wireless Mouse,Electronics,3,831.46,0.0,Kolkata,West Bengal,Marketplace,Cash on Delivery,Returned
+ORD100101,2023-02-25,C1042,P1002,USB-C Hub,Electronics,5,1895.12,,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD100102,2023-10-05,C1244,P1008,LED Desk Lamp,Home Office,2,1227.13,0.2,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100103,2024-11-01,C1136,P1007,Ergonomic Chair,Furniture,2,9272.3,0.2,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD100104,2024-07-23,C1059,P1002,USB-C Hub,Electronics,1,1877.51,0.1,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100105,2023-02-09,C1054,P1002,USB-C Hub,Electronics,1,1845.45,0.05,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100106,2023-03-24,C1379,P1008,LED Desk Lamp,Home Office,2,1286.02,0.05,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD100107,2023-11-09,C1098,P1007,Ergonomic Chair,Furniture,1,8334.25,0.05,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD100108,2024-03-22,C1266,P1006,Desk Organizer,Home Office,1,609.37,0.1,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100109,2023-08-23,C1316,P1008,LED Desk Lamp,Home Office,2,1264.91,0.15,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100110,2024-09-30,C1433,P1006,Desk Organizer,Home Office,1,614.83,0.05,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100111,2023-06-05,C1231,P1009,Water Bottle,Lifestyle,3,537.21,0.1,Bengaluru,Karnataka,Website,Debit Card,Delivered
+ORD100112,2023-09-05,,P1006,Desk Organizer,Home Office,2,583.1,0.15,Ahmedabad,Gujarat,Mobile App,Debit Card,Delivered
+ORD100113,2023-05-22,C1223,P1001,Wireless Mouse,Electronics,1,849.45,0.0,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD100114,2023-08-05,C1030,P1004,Notebook Set,Stationery,1,283.87,0.05,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100115,2023-11-10,C1335,P1001,Wireless Mouse,Electronics,3,851.42,0.05,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100116,2025-09-17,C1226,P1002,USB-C Hub,Electronics,2,1857.14,0.05,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD100117,2024-07-03,C1432,P1012,Monitor,Electronics,2,12646.25,0.15,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD100118,2024-07-25,C1304,P1009,Water Bottle,Lifestyle,1,513.45,0.0,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD100119,2025-02-15,C1095,P1006,Desk Organizer,Home Office,1,590.69,0.15,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD100120,2024-01-08,C1293,P1012,Monitor,Electronics,1,13813.28,0.25,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD100121,2024-11-28,C1064,P1005,Gel Pen Pack,Stationery,1,139.11,0.15,DELHI,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD100122,2024-01-27,C1110,P1005,Gel Pen Pack,Stationery,1,140.9,0.0,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100123,2024-05-07,C1409,P1001,Wireless Mouse,Electronics,1,774.75,0.1,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100124,2023-07-10,C1379,P1007,Ergonomic Chair,Furniture,1,8407.76,0.0,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100125,2024-09-19,C1380,P1008,LED Desk Lamp,Home Office,2,1343.08,0.15,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD100126,2025-05-21,C1420,P1001,Wireless Mouse,Electronics,1,840.69,0.05,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100127,2024-09-19,C1381,P1006,Desk Organizer,Home Office,2,637.84,0.1,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100128,2024-10-08,C1263,P1011,Office Backpack,Lifestyle,2,2340.94,0.05,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100129,2024-07-20,C1225,P1006,Desk Organizer,Home Office,1,591.66,0.2,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100130,2024-04-10,C1117,P1008,LED Desk Lamp,Home Office,1,1269.91,0.0,Hyderabad,Telangana,Marketplace,Cash on Delivery,Delivered
+ORD100131,2023-09-17,C1012,P1012,Monitor,Electronics,1,12638.68,0.1,Delhi,Delhi,Website,Cash on Delivery,Returned
+ORD100132,2024-08-21,C1322,P1001,Wireless Mouse,ELECTRONICS,1,830.57,0.1,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD100133,2024-08-05,C1442,P1008,LED Desk Lamp,Home Office,1,1363.23,0.2,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100134,2023-04-16,C1034,P1009,Water Bottle,Lifestyle,4,525.42,0.2,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100135,2025-03-31,C1052,P1009,Water Bottle,Lifestyle,1,526.24,0.1,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100136,2023-11-07,C1437,P1012,Monitor,Electronics,5,12596.02,0.15,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100137,2023-08-31,C1338,P1004,Notebook Set,Stationery,1,277.16,0.15,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100138,2025-07-11,C1109,P1006,Desk Organizer,Home Office,5,622.37,0.25,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100139,2024-09-17,C1186,P1010,Laptop Stand,Electronics,1,1622.07,0.15,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100140,2024-03-08,C1429,P1012,Monitor,Electronics,3,12040.78,0.05,Delhi,Delhi,Website,Credit Card,Delivered
+ORD100141,2023-06-03,C1022,P1001,Wireless Mouse,Electronics,2,831.96,0.15,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100142,2025-08-20,C1409,P1011,Office Backpack,Lifestyle,2,2415.37,0.0,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100143,2025-07-18,C1106,P1008,LED Desk Lamp,Home Office,3,1243.91,0.1,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100144,2024-02-10,C1275,P1009,Water Bottle,Lifestyle,1,493.13,0.2,Jaipur,Rajasthan,Website,Credit Card,Delivered
+ORD100145,2024-06-28,C1303,P1003,Bluetooth Speaker,Electronics,3,2446.93,0.2,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100146,2024-08-14,C1248,P1004,Notebook Set,Stationery,2,295.26,0.0,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD100147,2025-04-04,C1399,P1002,USB-C Hub,Electronics,1,1931.76,0.15,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD100148,2023-03-23,C1241,P1010,Laptop Stand,Electronics,5,1551.64,0.05,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100149,2023-07-07,C1062,P1007,Ergonomic Chair,Furniture,5,9351.31,0.1,Bengaluru,Karnataka,Website,Debit Card,Cancelled
+ORD100150,2023-03-24,C1047,P1005,Gel Pen Pack,Stationery,3,149.67,0.0,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100151,2024-07-23,C1165,P1001,Wireless Mouse,Electronics,1,737.48,0.1,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100152,2023-07-06,C1434,P1008,LED Desk Lamp,Home Office,1,1287.91,0.25,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD100153,2023-08-03,C1339,P1006,Desk Organizer,Home Office,1,642.42,0.0,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100154,2024-08-13,C1098,P1004,Notebook Set,Stationery,3,302.0,0.15,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100155,2024-05-31,C1266,P1008,LED Desk Lamp,Home Office,1,1248.38,0.05,Hyderabad,Telangana,Website,Net Banking,Returned
+ORD100156,2025-11-19,C1113,P1002,USB-C Hub,Electronics,3,1912.06,0.1,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100157,2025-11-27,C1357,P1010,Laptop Stand,Electronics,1,1664.56,0.25,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD100158,2024-02-21,C1212,P1009,Water Bottle,Lifestyle,2,535.64,0.15,Delhi,Delhi,Marketplace,Net Banking,Delivered
+ORD100159,2025-09-19,C1084,P1007,Ergonomic Chair,Furniture,1,9649.06,0.25,Mumbai,Maharashtra,Website,Cash on Delivery,Returned
+ORD100160,2024-05-05,C1333,P1006,Desk Organizer,Home Office,1,554.73,0.25,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100161,2025-04-15,C1047,P1001,Wireless Mouse,Electronics,1,773.74,0.1,Mumbai,Maharashtra,Marketplace,UPI,Cancelled
+ORD100162,2025-08-03,C1287,P1006,Desk Organizer,Home Office,1,578.52,0.0,Mumbai,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100163,2025-11-08,C1174,P1001,Wireless Mouse,Electronics,2,793.73,0.05,Delhi,Delhi,Retail Store,Net Banking,Delivered
+ORD100164,2024-05-14,C1187,P1005,Gel Pen Pack,Stationery,1,137.12,0.0,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD100165,2025-11-06,C1389,P1001,Wireless Mouse,Electronics,1,833.63,0.05,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100166,2024-11-27,C1104,P1005,Gel Pen Pack,Stationery,2,158.39,0.0,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100167,2025-09-29,C1146,P1003,Bluetooth Speaker,Electronics,1,2692.92,0.0,Pune,Maharashtra,Retail Store,Debit Card,Delivered
+ORD100168,2024-11-11,C1389,P1004,Notebook Set,Stationery,4,277.55,0.1,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100169,2024-05-04,C1321,P1002,USB-C Hub,Electronics,1,1791.7,0.2,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100170,2023-03-31,C1318,P1001,Wireless Mouse,Electronics,1,739.33,0.0,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD100171,2025-03-01,C1280,P1003,Bluetooth Speaker,Electronics,1,2651.8,0.2,Pune,Maharashtra,Retail Store,Credit Card,Returned
+ORD100172,2025-10-25,C1404,P1001,Wireless Mouse,Electronics,3,851.94,0.0,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD100173,2023-07-24,C1348,P1011,Office Backpack,Lifestyle,1,2366.55,0.1,Kolkata,West Bengal,Website,Net Banking,Delivered
+ORD100174,2023-11-13,C1067,P1008,LED Desk Lamp,Home Office,5,1274.92,0.15,Mumbai,Maharashtra,Retail Store,Debit Card,Delivered
+ORD100175,2024-11-24,C1144,P1010,Laptop Stand,Electronics,2,1529.89,0.05,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD100176,2025-02-17,C1173,P1004,Notebook Set,Stationery,1,287.66,0.05,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD100177,2023-05-21,C1009,P1002,USB-C Hub,Electronics,2,1975.67,0.15,Bengaluru,Karnataka,Mobile App,UPI,Cancelled
+ORD100178,2025-06-07,C1350,P1004,Notebook Set,Stationery,3,317.47,0.0,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100179,2023-03-01,C1065,P1009,Water Bottle,Lifestyle,1,502.11,0.25,Ahmedabad,Gujarat,Mobile App,Debit Card,Delivered
+ORD100180,2025-01-04,C1175,P1001,Wireless Mouse,Electronics,1,904.77,0.1,Hyderabad,Telangana,Retail Store,Cash on Delivery,Delivered
+ORD100181,2025-04-23,C1058,P1011,Office Backpack,Lifestyle,3,2312.47,0.1,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100182,2025-02-22,C1155,P1004,Notebook Set,Stationery,1,317.51,0.05,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100183,2024-04-20,C1299,P1010,Laptop Stand,Electronics,1,1633.01,0.0,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100184,2025-08-10,C1237,P1011,Office Backpack,Lifestyle,1,2341.46,0.1,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD100185,2024-09-04,C1179,P1009,Water Bottle,Lifestyle,2,507.17,0.15,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100186,2024-02-12,C1016,P1012,Monitor,Electronics,1,13096.22,0.0,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100187,2025-01-05,C1359,P1006,Desk Organizer,Home Office,1,583.09,0.2,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100188,2024-07-16,C1120,P1005,Gel Pen Pack,Stationery,2,140.86,0.25,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD100189,2024-08-09,C1081,P1002,USB-C Hub,Electronics,3,2041.69,0.0,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100190,2024-05-28,C1186,P1005,Gel Pen Pack,Stationery,2,159.33,0.05,Pune,Maharashtra,Website,UPI,Delivered
+ORD100191,2024-09-24,C1233,P1009,Water Bottle,Lifestyle,2,525.5,0.1,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100192,2023-07-04,C1227,P1001,Wireless Mouse,Electronics,3,852.65,0.15,Delhi,Delhi,Mobile App,Credit Card,Delivered
+ORD100193,2024-02-16,C1045,P1003,Bluetooth Speaker,Electronics,2,2308.91,0.25,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100194,2023-12-03,C1282,P1005,Gel Pen Pack,Stationery,2,159.56,0.05,Delhi,Delhi,Retail Store,Debit Card,Returned
+ORD100195,2024-11-24,C1144,P1008,LED Desk Lamp,Home Office,2,1285.43,0.1,Mumbai,Maharashtra,Retail Store,Credit Card,Returned
+ORD100196,2024-04-07,C1164,P1012,Monitor,Electronics,1,12393.85,0.05,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100197,2023-01-29,C1178,P1002,USB-C Hub,Electronics,1,1968.08,0.05,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100198,2025-02-19,C1263,P1012,Monitor,Electronics,1,12664.8,0.15,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD100199,2023-02-21,C1397,P1004,Notebook Set,Stationery,1,284.52,0.1,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD100200,2024-09-10,C1041,P1005,Gel Pen Pack,Stationery,1,138.22,0.1,Jaipur,Rajasthan,Website,UPI,Delivered
+ORD100201,2024-09-15,C1432,P1008,LED Desk Lamp,Home Office,1,1219.52,0.0,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100202,2023-10-05,C1048,P1004,Notebook Set,Stationery,2,319.64,0.2,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD100203,2025-05-08,C1444,P1012,Monitor,Electronics,4,12602.5,0.0,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100204,2025-04-15,C1335,P1004,Notebook Set,Stationery,1,291.21,0.2,Delhi,Delhi,Website,Credit Card,Delivered
+ORD100205,2025-06-27,C1278,P1006,Desk Organizer,Home Office,1,599.94,0.0,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100206,2025-01-22,C1382,P1011,Office Backpack,Lifestyle,2,2389.81,0.05,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100207,2023-09-08,C1168,P1005,Gel Pen Pack,Stationery,2,156.64,0.0,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100208,2023-02-13,C1174,P1012,Monitor,Electronics,1,13939.36,0.0,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD100209,2024-02-25,C1120,P1011,Office Backpack,Lifestyle,1,2177.68,0.1,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100210,2024-11-03,C1337,P1003,Bluetooth Speaker,Electronics,2,2660.75,0.2,Pune,Maharashtra,Website,Credit Card,Delivered
+ORD100211,2023-09-24,C1153,P1006,Desk Organizer,Home Office,1,576.01,0.0,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100212,2023-09-27,C1127,P1012,Monitor,Electronics,3,13676.91,0.1,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD100213,2024-10-25,C1221,P1006,Desk Organizer,Home Office,1,595.33,0.0,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100214,2025-05-12,C1067,P1002,USB-C Hub,Electronics,4,1978.8,0.25,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100215,2025-11-17,C1074,P1007,Ergonomic Chair,Furniture,1,9013.07,0.0,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100216,2023-03-30,C1033,P1001,Wireless Mouse,Electronics,3,778.75,0.1,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100217,2023-05-05,C1210,P1005,Gel Pen Pack,Stationery,1,141.82,0.25,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100218,2025-10-01,C1373,P1010,Laptop Stand,Electronics,2,1662.44,0.0,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD100219,2023-10-31,C1415,P1004,Notebook Set,Stationery,1,292.48,0.15,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100220,2024-10-27,C1095,P1008,LED Desk Lamp,Home Office,2,1370.34,0.0,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100221,2025-05-31,C1416,P1005,Gel Pen Pack,Stationery,2,142.63,0.25,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100222,2024-03-16,C1196,P1004,Notebook Set,Stationery,1,298.37,0.0,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100223,2024-11-25,C1069,P1008,LED Desk Lamp,Home Office,1,1398.65,0.05,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100224,2024-10-02,C1033,P1009,Water Bottle,Lifestyle,1,515.06,0.1,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100225,2023-11-09,C1213,P1012,Monitor,Electronics,1,12350.74,0.1,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100226,2023-07-10,C1336,P1011,Office Backpack,Lifestyle,1,2191.17,0.2,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100227,2023-09-24,C1338,P1012,Monitor,Electronics,1,13417.56,0.05,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100228,2024-12-25,C1403,P1012,Monitor,Electronics,1,13591.06,0.05,Jaipur,Rajasthan,Website,Cash on Delivery,Returned
+ORD100229,2024-10-01,C1253,P1009,Water Bottle,Lifestyle,1,536.03,0.05,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100230,2023-11-13,C1117,P1008,LED Desk Lamp,Home Office,1,1285.21,0.1,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD100231,2025-01-22,C1057,P1001,Wireless Mouse,Electronics,2,857.08,0.1,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100232,2023-02-23,C1423,P1001,Wireless Mouse,Electronics,1,761.95,0.15,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100233,2024-11-26,C1388,P1003,Bluetooth Speaker,Electronics,2,2354.04,0.0,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100234,2025-03-31,C1334,P1002,USB-C Hub,Electronics,1,2043.51,0.2,Mumbai,Maharashtra,Marketplace,UPI,Delivered
+ORD100235,2023-07-07,C1092,P1006,Desk Organizer,Home Office,2,648.12,0.1,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD100236,2023-11-19,C1234,P1003,Bluetooth Speaker,Electronics,2,2435.23,0.25,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100237,2023-06-23,C1180,P1009,Water Bottle,Lifestyle,1,493.02,0.2,Ahmedabad,Gujarat,Marketplace,Cash on Delivery,Delivered
+ORD100238,2023-04-12,C1148,P1008,LED Desk Lamp,Home Office,1,1401.76,0.2,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100239,2025-09-21,C1145,P1006,Desk Organizer,Home Office,1,640.08,0.05,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD100240,2023-08-22,C1422,P1003,Bluetooth Speaker,Electronics,3,2691.57,0.2,Hyderabad,Telangana,Retail Store,Cash on Delivery,Delivered
+ORD100241,2025-09-23,C1441,P1009,Water Bottle,Lifestyle,2,544.72,0.1,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100242,2023-04-23,C1138,P1005,Gel Pen Pack,Stationery,1,153.41,0.05,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100243,2023-10-09,C1117,P1007,Ergonomic Chair,Furniture,1,8613.89,0.15,Delhi,Delhi,Mobile App,UPI,Delivered
+ORD100244,2025-10-15,C1205,P1011,Office Backpack,Lifestyle,1,2106.93,0.05,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD100245,2024-04-16,C1359,P1010,Laptop Stand,Electronics,1,1681.57,0.0,Hyderabad,Telangana,Website,UPI,Delivered
+ORD100246,2025-06-12,C1012,P1005,Gel Pen Pack,Stationery,5,147.64,0.0,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD100247,2025-05-29,C1191,P1008,LED Desk Lamp,Home Office,4,1468.14,0.0,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100248,2023-02-12,C1101,P1002,USB-C Hub,Electronics,2,1834.45,0.2,Hyderabad,Telangana,Marketplace,Cash on Delivery,Delivered
+ORD100249,2025-07-31,C1299,P1001,Wireless Mouse,Electronics,3,789.39,0.05,Hyderabad,Telangana,Website,UPI,Delivered
+ORD100250,2024-05-13,C1001,P1007,Ergonomic Chair,Furniture,1,9328.79,0.1,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100251,2024-09-27,C1447,P1012,Monitor,Electronics,1,12169.45,0.15,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100252,2023-06-06,C1095,P1012,Monitor,Electronics,1,12978.27,0.05,Mumbai,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100253,2024-12-20,C1024,P1009,Water Bottle,Lifestyle,1,525.88,0.15,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100254,2024-02-09,C1322,P1010,Laptop Stand,Electronics,1,1558.49,0.15,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD100255,2023-12-29,C1361,P1006,Desk Organizer,Home Office,3,565.73,0.2,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD100256,2025-07-08,C1230,P1001,Wireless Mouse,Electronics,1,839.89,0.0,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD100257,2025-08-18,C1024,P1001,Wireless Mouse,Electronics,1,873.91,0.0,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100258,2023-04-26,C1030,P1008,LED Desk Lamp,Home Office,3,1232.18,0.0,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD100259,2023-03-19,C1388,P1010,Laptop Stand,Electronics,1,1693.76,0.0,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100260,2023-07-04,C1091,P1005,Gel Pen Pack,Stationery,2,143.6,0.15,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100261,2025-07-10,C1227,P1009,Water Bottle,Lifestyle,1,509.9,0.0,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD100262,2023-11-05,C1152,P1003,Bluetooth Speaker,Electronics,2,2349.6,0.0,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD100263,2023-06-22,C1080,P1002,USB-C Hub,Electronics,3,1875.73,0.25,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100264,2025-06-18,C1083,P1002,USB-C Hub,Electronics,2,1967.62,0.05,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100265,2025-03-04,C1394,P1012,Monitor,Electronics,3,12879.39,0.0,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100266,2024-11-16,C1336,P1008,LED Desk Lamp,Home Office,1,1357.33,0.1,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100267,2024-08-04,C1248,P1010,Laptop Stand,Electronics,2,1478.3,0.0,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100268,2023-10-17,C1117,P1008,LED Desk Lamp,Home Office,1,1252.54,0.05,Hyderabad,Telangana,Mobile App,Net Banking,Returned
+ORD100269,2023-09-22,C1342,P1010,Laptop Stand,Electronics,1,1575.83,0.0,Mumbai,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100270,2023-09-19,C1380,P1006,Desk Organizer,Home Office,1,608.52,0.1,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD100271,2025-01-12,C1030,P1001,Wireless Mouse,Electronics,1,890.84,0.1,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD100272,2025-09-22,C1379,P1002,USB-C Hub,Electronics,3,1974.75,0.1,Bengaluru,Karnataka,Marketplace,Credit Card,Cancelled
+ORD100273,2023-06-08,C1421,P1001,Wireless Mouse,Electronics,1,814.65,0.0,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100274,2025-12-14,C1048,P1009,Water Bottle,Lifestyle,1,486.19,0.0,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100275,2023-09-26,C1191,P1002,USB-C Hub,Electronics,1,2024.8,0.05,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD100276,2023-12-06,C1419,P1004,Notebook Set,Stationery,1,293.25,0.0,kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100277,2025-06-28,C1275,P1003,Bluetooth Speaker,Electronics,3,2801.79,0.0,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD100278,2024-09-25,C1090,P1001,Wireless Mouse,Electronics,1,819.24,0.0,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD100279,2025-06-21,C1384,P1009,Water Bottle,Lifestyle,2,523.86,0.25,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100280,2025-12-16,C1039,P1001,Wireless Mouse,Electronics,1,810.24,0.2,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD100281,2023-10-11,C1260,P1010,Laptop Stand,Electronics,1,1737.1,0.1,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100282,2023-07-30,C1358,P1006,Desk Organizer,Home Office,4,589.85,0.05,Mumbai,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100283,2024-07-12,C1264,P1002,USB-C Hub,Electronics,1,1809.45,0.0,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100284,2024-03-30,C1198,P1011,Office Backpack,Lifestyle,2,2157.16,0.05,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100285,2023-04-20,C1195,P1008,LED Desk Lamp,Home Office,3,1401.07,0.05,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100286,2025-02-06,C1132,P1004,Notebook Set,Stationery,1,316.11,0.1,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD100287,2024-11-17,C1297,P1007,Ergonomic Chair,Furniture,1,8807.99,0.05,Pune,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100288,2023-10-12,C1389,P1001,Wireless Mouse,Electronics,1,833.3,0.05,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100289,2023-02-08,C1097,P1007,Ergonomic Chair,Furniture,2,8672.89,0.15,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100290,2025-12-16,C1296,P1012,Monitor,Electronics,2,13974.83,0.0,Jaipur,Rajasthan,Website,Credit Card,Delivered
+ORD100291,2024-09-08,C1426,P1005,Gel Pen Pack,Stationery,3,151.75,0.0,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100292,2025-07-25,C1152,P1001,Wireless Mouse,Electronics,2,843.97,0.0,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100293,2023-02-03,C1335,P1011,Office Backpack,Lifestyle,1,2197.19,0.0,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD100294,2024-12-23,C1383,P1010,Laptop Stand,Electronics,1,1709.95,0.05,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100295,2025-12-08,C1255,P1004,Notebook Set,Stationery,1,327.05,0.1,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100296,2025-11-05,C1384,P1006,Desk Organizer,Home Office,4,675.17,0.2,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD100297,2025-03-03,C1085,P1008,LED Desk Lamp,Home Office,3,1328.88,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100298,2023-05-19,C1329,P1010,Laptop Stand,Electronics,1,1624.5,0.25,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD100299,2024-11-11,C1274,P1005,Gel Pen Pack,Stationery,1,147.66,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100300,2023-12-25,C1329,P1010,Laptop Stand,Electronics,3,1548.39,0.05,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100301,2023-05-10,C1394,P1001,Wireless Mouse,Electronics,1,798.06,0.15,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100302,2024-02-13,C1062,P1002,USB-C Hub,Electronics,2,1868.7,0.1,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100303,2025-03-26,C1019,P1005,Gel Pen Pack,Stationery,1,148.21,0.0,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100304,2024-08-08,C1090,P1002,USB-C Hub,Electronics,1,1778.33,0.2,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD100305,2024-07-13,C1183,P1010,Laptop Stand,Electronics,4,1493.03,0.1,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100306,2025-06-19,C1164,P1011,Office Backpack,Lifestyle,2,2270.8,0.1,Jaipur,Rajasthan,Mobile App,Net Banking,Returned
+ORD100307,2025-10-15,C1017,P1006,Desk Organizer,Home Office,5,674.66,0.0,Hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD100308,2023-06-11,C1140,P1009,Water Bottle,Lifestyle,1,535.68,0.0,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100309,2023-07-30,C1422,P1010,Laptop Stand,Electronics,1,1487.34,0.15,Mumbai,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100310,2025-07-02,C1319,P1002,USB-C Hub,Electronics,1,2124.42,0.1,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100311,2025-07-04,C1179,P1005,Gel Pen Pack,Stationery,1,168.08,0.05,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100312,2024-07-16,C1304,P1002,USB-C Hub,Electronics,1,2058.41,0.0,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD100313,2025-01-14,C1391,P1009,Water Bottle,Lifestyle,3,563.54,0.2,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100314,2025-06-16,C1175,P1012,Monitor,Electronics,1,14266.35,0.1,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD100315,2025-01-11,C1245,P1011,Office Backpack,Lifestyle,4,2378.03,0.1,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD100316,2025-01-29,C1052,P1005,Gel Pen Pack,Stationery,1,152.09,0.05,Hyderabad,Telangana,Retail Store,Cash on Delivery,Delivered
+ORD100317,2023-10-09,C1041,P1001,Wireless Mouse,Electronics,2,795.67,0.2,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD100318,2024-05-26,C1128,P1008,LED Desk Lamp,Home Office,1,1229.87,0.0,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100319,2025-11-26,C1440,P1003,Bluetooth Speaker,Electronics,1,2804.67,0.25,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100320,2025-07-02,C1067,P1003,Bluetooth Speaker,Electronics,1,2458.9,0.0,Bengaluru,Karnataka,Mobile App,Net Banking,Delivered
+ORD100321,2024-02-14,C1088,P1007,Ergonomic Chair,Furniture,3,9100.93,0.1,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100322,2023-12-20,C1282,P1003,Bluetooth Speaker,Electronics,2,2561.54,0.2,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD100323,2024-12-12,C1427,P1004,Notebook Set,Stationery,1,286.56,0.1,Mumbai,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100324,2023-12-23,C1191,P1012,Monitor,Electronics,1,13662.36,0.1,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100325,2023-10-12,C1083,P1004,Notebook Set,Stationery,2,309.28,0.1,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD100326,2025-01-25,C1344,P1003,Bluetooth Speaker,Electronics,2,2465.65,0.2,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100327,2023-05-15,C1085,P1001,Wireless Mouse,Electronics,1,805.65,0.1,Delhi,Delhi,Retail Store,Net Banking,Cancelled
+ORD100328,2025-12-12,C1415,P1005,Gel Pen Pack,Stationery,5,155.38,0.1,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100329,2023-09-14,C1190,P1001,Wireless Mouse,Electronics,2,766.04,0.1,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100330,2024-12-06,C1128,P1001,Wireless Mouse,Electronics,5,798.78,0.2,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100331,2025-06-05,C1215,P1001,Wireless Mouse,Electronics,3,856.04,0.15,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD100332,2023-12-04,C1136,P1005,Gel Pen Pack,Stationery,2,158.77,0.1,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100333,2024-12-09,C1157,P1008,LED Desk Lamp,Home Office,2,1407.21,0.05,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100334,2024-07-16,C1221,P1005,Gel Pen Pack,Stationery,2,149.89,0.15,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100335,2025-10-26,C1207,P1003,Bluetooth Speaker,Electronics,2,2448.99,0.0,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100336,2024-11-22,C1254,P1008,LED Desk Lamp,Home Office,2,1392.65,0.0,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD100337,2024-06-26,C1050,P1012,Monitor,Electronics,1,12395.89,0.05,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100338,2025-10-16,C1377,P1006,Desk Organizer,Home Office,3,653.67,0.15,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100339,2024-09-01,C1079,P1004,Notebook Set,Stationery,1,282.57,0.0,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100340,2025-06-19,C1068,P1004,Notebook Set,Stationery,1,315.17,0.15,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100341,2023-10-22,C1032,P1006,Desk Organizer,Home Office,2,627.25,0.15,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100342,2025-03-27,C1082,P1005,Gel Pen Pack,Stationery,3,148.91,0.05,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100343,2024-10-15,C1080,P1005,Gel Pen Pack,Stationery,1,143.18,0.15,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD100344,2024-05-22,C1316,P1004,Notebook Set,Stationery,1,281.73,0.1,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100345,2025-05-06,C1137,P1004,Notebook Set,Stationery,1,326.42,0.2,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD100346,2024-10-02,C1213,P1006,Desk Organizer,Home Office,2,639.38,0.25,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD100347,2025-08-14,C1277,P1011,Office Backpack,Lifestyle,3,2411.71,0.1,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100348,2025-03-16,C1222,P1001,Wireless Mouse,Electronics,1,831.9,0.1,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD100349,2023-04-10,C1184,P1007,Ergonomic Chair,Furniture,1,9558.96,0.0,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100350,2024-08-08,C1301,P1003,Bluetooth Speaker,Electronics,2,2659.27,0.25,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD100351,2025-01-19,C1393,P1011,Office Backpack,Lifestyle,1,2260.16,0.0,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100352,2024-02-03,C1277,P1008,LED Desk Lamp,Home Office,4,1271.19,0.1,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100353,2025-07-11,C1134,P1002,USB-C Hub,Electronics,1,1836.42,0.2,Delhi,Delhi,Website,UPI,Delivered
+ORD100354,2025-03-17,C1333,P1005,Gel Pen Pack,Stationery,3,160.51,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100355,2023-10-23,C1079,P1010,Laptop Stand,Electronics,1,1719.34,0.0,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100356,2023-03-21,C1154,P1009,Water Bottle,Lifestyle,2,479.04,0.0,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100357,2025-07-24,C1435,P1003,Bluetooth Speaker,Electronics,1,2582.14,0.0,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100358,2024-10-14,C1379,P1010,Laptop Stand,Electronics,2,1573.92,0.15,Pune,Maharashtra,Retail Store,Debit Card,Cancelled
+ORD100359,2024-11-19,C1096,P1001,Wireless Mouse,Electronics,2,870.11,0.0,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100360,2025-01-24,,P1003,Bluetooth Speaker,Electronics,1,2748.9,0.0,Hyderabad,Telangana,Website,Cash on Delivery,Returned
+ORD100361,2024-09-22,C1178,P1009,Water Bottle,Lifestyle,1,475.1,0.0,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100362,2024-04-11,C1333,P1005,Gel Pen Pack,Stationery,1,158.91,0.1,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100363,2025-02-17,C1311,P1012,Monitor,Electronics,1,13364.44,0.2,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD100364,2024-01-26,C1187,P1003,Bluetooth Speaker,Electronics,2,2619.65,0.0,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100365,2025-04-25,C1211,P1003,Bluetooth Speaker,Electronics,1,2595.98,0.05,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD100366,2025-08-23,C1271,P1010,Laptop Stand,Electronics,3,1756.85,0.0,Ahmedabad,Gujarat,Marketplace,Cash on Delivery,Delivered
+ORD100367,2024-10-27,C1124,P1003,Bluetooth Speaker,Electronics,1,2700.03,0.05,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100368,2025-07-30,C1039,P1003,Bluetooth Speaker,Electronics,3,2567.42,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100369,2025-09-18,C1073,P1008,LED Desk Lamp,Home Office,2,1291.33,0.2,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD100370,2024-04-05,C1387,P1011,Office Backpack,Lifestyle,3,2108.19,0.0,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100371,2024-10-11,C1391,P1004,Notebook Set,Stationery,2,313.71,0.0,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD100372,2024-08-12,C1026,P1010,Laptop Stand,Electronics,4,1669.07,0.1,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100373,2024-12-07,C1395,P1006,Desk Organizer,Home Office,2,634.63,0.15,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100374,2024-12-10,C1303,P1004,Notebook Set,Stationery,1,287.19,0.1,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100375,2024-02-18,C1228,P1007,Ergonomic Chair,Furniture,1,9482.89,0.2,Delhi,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD100376,2024-05-05,C1359,P1003,Bluetooth Speaker,Electronics,2,2587.1,0.1,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD100377,2024-04-07,C1085,P1010,Laptop Stand,Electronics,4,1667.3,0.2,Bengaluru,Karnataka,Website,Debit Card,Delivered
+ORD100378,2025-08-25,C1032,P1012,Monitor,Electronics,1,13904.23,0.1,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100379,2023-11-20,C1444,P1001,Wireless Mouse,Electronics,1,854.0,0.05,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100380,2024-08-11,C1351,P1010,Laptop Stand,Electronics,1,1737.47,0.2,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD100381,2024-04-20,C1136,P1010,Laptop Stand,Electronics,1,1635.91,0.1,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100382,2023-03-16,C1145,P1010,Laptop Stand,Electronics,1,1530.93,0.15,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100383,2023-03-18,C1254,P1006,Desk Organizer,Home Office,1,586.54,0.2,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100384,2024-11-17,C1162,P1001,Wireless Mouse,Electronics,1,863.46,0.0,Delhi,Delhi,Retail Store,Cash on Delivery,Cancelled
+ORD100385,2025-12-09,C1338,P1003,Bluetooth Speaker,Electronics,3,2720.67,0.2,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100386,2024-07-12,C1358,P1003,Bluetooth Speaker,Electronics,1,2630.14,0.0,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD100387,2024-06-10,C1104,P1001,Wireless Mouse,Electronics,4,831.52,0.1,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100388,2024-01-31,C1028,P1009,Water Bottle,Lifestyle,1,499.47,0.1,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100389,2024-11-02,C1289,P1003,Bluetooth Speaker,Electronics,3,2643.94,0.05,Mumbai,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100390,2023-10-15,C1306,P1007,Ergonomic Chair,Furniture,1,9766.6,0.2,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100391,2024-06-18,C1415,P1004,Notebook Set,Stationery,1,285.84,0.0,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100392,2024-11-06,C1014,P1002,USB-C Hub,Electronics,1,2066.62,0.0,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100393,2024-04-28,C1060,P1010,Laptop Stand,Electronics,2,1681.59,0.1,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100394,2025-04-10,C1187,P1011,Office Backpack,Lifestyle,2,2307.0,0.15,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100395,2025-01-22,C1202,P1004,Notebook Set,Stationery,1,295.06,0.15,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD100396,2023-11-10,C1311,P1003,Bluetooth Speaker,Electronics,1,2403.74,0.2,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100397,2025-08-22,C1149,P1009,Water Bottle,Lifestyle,3,484.31,0.15,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD100398,2023-06-17,C1051,P1004,Notebook Set,Stationery,1,310.1,0.2,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100399,2023-08-18,C1133,P1007,Ergonomic Chair,FURNITURE,1,9127.04,0.1,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100400,2023-12-03,C1278,P1008,LED Desk Lamp,Home Office,2,1224.91,0.15,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100401,2025-09-28,C1304,P1009,Water Bottle,Lifestyle,1,516.87,0.05,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100402,2023-09-28,C1347,P1001,Wireless Mouse,Electronics,1,794.98,0.15,jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD100403,2025-08-04,C1107,P1010,Laptop Stand,Electronics,1,1744.9,0.1,Delhi,Delhi,Website,UPI,Delivered
+ORD100404,2024-03-22,C1432,P1006,Desk Organizer,Home Office,2,645.58,0.1,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD100405,2023-05-04,C1238,P1008,LED Desk Lamp,Home Office,2,1210.95,0.1,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100406,2024-01-04,C1436,P1006,Desk Organizer,Home Office,3,601.33,0.1,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100407,2025-07-07,C1433,P1005,Gel Pen Pack,Stationery,1,148.27,0.0,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD100408,2023-09-30,C1320,P1001,Wireless Mouse,Electronics,1,839.57,0.15,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100409,2025-03-15,C1015,P1007,Ergonomic Chair,Furniture,1,10107.52,0.0,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD100410,2024-09-03,C1131,P1008,LED Desk Lamp,Home Office,1,1336.76,0.05,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100411,2024-05-21,C1342,P1003,Bluetooth Speaker,Electronics,3,2511.58,0.15,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100412,2023-08-20,C1158,P1011,Office Backpack,Lifestyle,5,-99.0,0.05,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD100413,2024-05-07,C1113,P1003,Bluetooth Speaker,Electronics,2,2721.16,0.25,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD100414,2025-07-03,C1146,P1006,Desk Organizer,Home Office,2,664.2,0.2,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD100415,2025-06-17,C1092,P1006,Desk Organizer,Home Office,3,605.24,,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD100416,2023-10-14,C1433,P1012,Monitor,Electronics,5,13961.42,0.15,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100417,2024-10-15,C1122,P1004,Notebook Set,Stationery,1,303.58,0.1,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100418,2025-12-03,C1191,P1008,LED Desk Lamp,Home Office,1,1414.94,0.05,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100419,2023-12-25,C1149,P1002,USB-C Hub,Electronics,1,2021.65,0.1,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100420,2025-02-19,C1440,P1003,Bluetooth Speaker,Electronics,2,2635.81,0.0,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD100421,2025-02-09,C1143,P1002,USB-C Hub,Electronics,2,1909.3,0.0,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100422,2024-09-07,C1047,P1001,Wireless Mouse,Electronics,2,738.03,0.2,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100423,2025-04-25,C1070,P1008,LED Desk Lamp,Home Office,1,1344.58,0.0,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100424,2024-02-21,C1268,P1010,Laptop Stand,Electronics,3,1474.07,0.0,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD100425,2023-07-09,C1407,P1006,Desk Organizer,Home Office,1,571.73,0.1,BENGALURU,Karnataka,Website,Cash on Delivery,Delivered
+ORD100426,2023-03-22,C1252,P1009,Water Bottle,Lifestyle,2,539.94,0.1,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100427,2024-03-20,C1136,P1006,Desk Organizer,Home Office,1,573.93,0.0,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD100428,2024-09-12,C1245,P1004,Notebook Set,Stationery,2,276.02,0.1,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD100429,2025-09-07,C1290,P1008,LED Desk Lamp,Home Office,2,1429.03,0.15,Bengaluru,Karnataka,Marketplace,Credit Card,Delivered
+ORD100430,2024-10-20,C1081,P1001,Wireless Mouse,Electronics,1,817.04,0.0,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD100431,2024-09-23,C1020,P1003,Bluetooth Speaker,Electronics,1,2474.93,0.0,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100432,2025-08-12,C1240,P1010,Laptop Stand,Electronics,3,1586.84,0.2,Mumbai,Maharashtra,Retail Store,Debit Card,Delivered
+ORD100433,2024-02-21,C1009,P1012,Monitor,Electronics,4,11985.71,0.15,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100434,2024-03-29,C1356,P1012,Monitor,Electronics,3,14104.18,0.1,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100435,2025-05-05,C1036,P1011,Office Backpack,Lifestyle,2,2343.01,0.05,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100436,2025-02-16,C1317,P1007,Ergonomic Chair,Furniture,1,9787.23,0.0,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD100437,2024-06-11,C1329,P1011,Office Backpack,Lifestyle,1,2213.67,0.05,KOLKATA,West Bengal,Retail Store,Debit Card,Delivered
+ORD100438,2023-12-13,C1170,P1012,Monitor,Electronics,2,12774.48,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100439,2023-05-01,C1099,P1005,Gel Pen Pack,Stationery,4,155.68,,Ahmedabad,Gujarat,Website,UPI,Delivered
+ORD100440,2023-01-14,C1266,P1011,Office Backpack,Lifestyle,1,2341.48,0.0,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100441,2023-05-20,C1279,P1012,Monitor,Electronics,1,13490.33,0.25,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100442,2025-02-03,C1140,P1002,USB-C Hub,Electronics,1,2043.32,0.05,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD100443,2023-01-14,C1033,P1006,Desk Organizer,Home Office,2,580.11,0.05,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100444,2024-08-10,C1361,P1011,Office Backpack,Lifestyle,-1,2338.12,0.1,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100445,2023-08-08,C1429,P1008,LED Desk Lamp,Home Office,1,1390.54,0.1,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100446,2025-12-14,C1245,P1002,USB-C Hub,Electronics,1,2047.8,0.0,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100447,2023-06-11,C1129,P1002,USB-C Hub,Electronics,1,1880.85,0.1,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100448,2024-04-07,C1148,P1004,Notebook Set,Stationery,1,306.31,0.05,Delhi,Delhi,Website,UPI,Delivered
+ORD100449,2023-07-11,C1294,P1001,Wireless Mouse,Electronics,1,768.81,0.1,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100450,2023-04-25,C1093,P1005,Gel Pen Pack,Stationery,2,146.65,0.1,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD100451,2024-11-09,C1268,P1001,Wireless Mouse,Electronics,1,781.92,0.05,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100452,2025-08-31,C1441,P1001,Wireless Mouse,Electronics,2,897.61,0.0,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100453,2023-03-09,C1271,P1010,Laptop Stand,Electronics,1,1685.16,0.1,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100454,2023-10-23,C1432,P1012,Monitor,Electronics,5,12052.66,0.1,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD100455,2024-05-07,C1247,P1002,USB-C Hub,Electronics,1,2065.92,0.0,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100456,2023-06-10,C1069,P1005,Gel Pen Pack,Stationery,3,145.28,0.1,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100457,2023-06-05,C1441,P1006,Desk Organizer,Home Office,1,556.35,0.2,Hyderabad,Telangana,Retail Store,Debit Card,Returned
+ORD100458,2023-03-02,C1004,P1003,Bluetooth Speaker,Electronics,1,2337.61,0.05,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD100459,2025-02-07,C1419,P1006,Desk Organizer,Home Office,4,600.54,0.1,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100460,2023-06-25,C1389,P1011,Office Backpack,Lifestyle,1,2127.56,0.2,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100461,2024-07-02,C1176,P1006,Desk Organizer,Home Office,4,570.07,0.05,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100462,2025-03-08,C1209,P1001,Wireless Mouse,Electronics,1,792.76,0.15,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD100463,2024-09-23,C1082,P1009,Water Bottle,Lifestyle,1,489.21,0.05,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100464,2023-09-29,C1026,P1009,Water Bottle,Lifestyle,1,489.73,0.2,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100465,2025-11-15,C1258,P1003,Bluetooth Speaker,Electronics,3,2542.44,0.0,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100466,2023-07-10,C1155,P1006,Desk Organizer,Home Office,1,575.36,0.15,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD100467,2025-03-05,C1059,P1010,Laptop Stand,Electronics,4,1701.39,0.15,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100468,2025-02-18,C1051,P1009,Water Bottle,Lifestyle,5,507.57,0.0,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100469,2025-10-06,C1234,P1006,Desk Organizer,Home Office,1,638.05,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100470,2025-05-12,C1342,P1012,Monitor,Electronics,1,12528.36,0.0,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD100471,2024-05-30,C1109,P1004,Notebook Set,Stationery,1,289.28,0.0,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100472,2025-07-26,C1148,P1005,Gel Pen Pack,Stationery,1,151.5,0.05,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100473,2024-11-11,C1041,P1001,Wireless Mouse,Electronics,1,837.86,0.25,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100474,2023-10-06,C1015,P1012,Monitor,Electronics,1,13134.32,0.05,Delhi,Delhi,Mobile App,Credit Card,Delivered
+ORD100475,2025-09-08,C1349,P1010,Laptop Stand,Electronics,3,1783.09,0.1,Hyderabad,Telangana,Marketplace,Debit Card,Returned
+ORD100476,2024-08-19,C1222,P1010,Laptop Stand,Electronics,2,1554.93,0.2,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD100477,2025-03-15,C1043,P1012,Monitor,Electronics,-1,12651.8,0.1,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100478,2024-01-04,C1234,P1001,Wireless Mouse,Electronics,2,843.64,0.1,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100479,2025-06-16,C1386,P1001,Wireless Mouse,Electronics,1,822.99,0.0,Delhi,Delhi,Website,Net Banking,Delivered
+ORD100480,2025-10-19,C1022,P1005,Gel Pen Pack,Stationery,1,152.91,0.05,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100481,2025-05-16,C1396,P1004,Notebook Set,Stationery,3,308.6,0.05,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD100482,2025-09-08,C1023,P1006,Desk Organizer,Home Office,1,600.38,0.1,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100483,2023-06-24,C1069,P1004,Notebook Set,Stationery,1,296.09,0.15,Mumbai,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100484,2023-12-07,C1261,P1003,Bluetooth Speaker,Electronics,4,2632.45,0.25,Ahmedabad,Gujarat,Retail Store,Debit Card,Returned
+ORD100485,2025-05-31,C1378,P1002,USB-C Hub,Electronics,1,1874.03,0.15,Mumbai,Maharashtra,Website,Credit Card,Delivered
+ORD100486,2025-11-11,C1159,P1007,Ergonomic Chair,Furniture,1,10089.26,0.0,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD100487,2025-10-21,C1254,P1009,Water Bottle,Lifestyle,1,530.19,0.15,Pune,Maharashtra,Mobile App,Net Banking,Cancelled
+ORD100488,2023-08-03,C1171,P1001,Wireless Mouse,Electronics,1,770.2,0.1,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100489,2023-08-26,C1054,P1012,Monitor,Electronics,3,12370.05,0.05,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100490,2024-02-28,,P1007,Ergonomic Chair,Furniture,2,8956.27,0.0,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100491,2025-07-15,C1047,P1012,Monitor,Electronics,1,14442.72,0.1,Hyderabad,Telangana,Website,UPI,Delivered
+ORD100492,2023-02-16,C1295,P1012,Monitor,Electronics,1,12211.04,0.2,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100493,2024-05-14,C1427,P1004,Notebook Set,Stationery,1,298.08,0.05,Pune,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100494,2025-08-04,C1276,P1002,USB-C Hub,Electronics,3,1902.01,0.15,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100495,2025-06-04,C1031,P1001,Wireless Mouse,Electronics,2,812.38,0.1,Jaipur,Rajasthan,Website,Credit Card,Delivered
+ORD100496,2025-07-09,C1220,P1001,Wireless Mouse,Electronics,4,870.22,0.2,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100497,2024-02-26,C1062,P1004,Notebook Set,Stationery,1,302.38,0.05,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100498,2024-01-18,C1085,P1001,Wireless Mouse,Electronics,1,769.66,0.05,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD100499,2024-06-21,C1089,P1003,Bluetooth Speaker,Electronics,2,2463.98,0.05,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100500,2025-03-14,C1120,P1006,Desk Organizer,Home Office,2,613.25,0.1,Mumbai,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100501,2023-12-20,C1435,P1006,Desk Organizer,Home Office,3,631.9,0.0,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100502,2023-08-30,C1009,P1005,Gel Pen Pack,Stationery,2,162.07,0.1,Bengaluru,Karnataka,Mobile App,Debit Card,Delivered
+ORD100503,2023-10-17,C1042,P1007,Ergonomic Chair,Furniture,1,9428.78,0.1,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD100504,2025-02-24,C1201,P1009,Water Bottle,Lifestyle,3,532.93,0.1,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD100505,2023-12-21,C1340,P1011,Office Backpack,Lifestyle,3,2036.7,0.1,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100506,2024-10-06,C1010,P1003,Bluetooth Speaker,Electronics,3,2574.54,0.05,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100507,2025-09-19,C1085,P1004,Notebook Set,Stationery,2,296.89,0.0,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100508,2025-11-01,C1088,P1011,Office Backpack,Lifestyle,2,2181.68,0.05,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD100509,2025-06-28,C1438,P1009,Water Bottle,Lifestyle,2,504.59,0.05,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100510,2024-03-27,C1430,P1001,Wireless Mouse,Electronics,2,740.94,0.0,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100511,2024-08-14,C1329,P1012,Monitor,Electronics,2,13001.32,0.1,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100512,2025-11-12,C1132,P1005,Gel Pen Pack,Stationery,1,156.31,0.1,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100513,2025-01-21,C1270,P1011,Office Backpack,Lifestyle,5,2134.62,0.05,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD100514,2023-07-29,C1046,P1002,USB-C Hub,Electronics,1,1839.88,0.0,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100515,2025-07-10,C1344,P1006,Desk Organizer,Home Office,3,576.58,0.0,Delhi,Delhi,Mobile App,UPI,Delivered
+ORD100516,2025-06-18,C1150,P1005,Gel Pen Pack,Stationery,1,149.48,0.25,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100517,2024-12-19,C1095,P1002,USB-C Hub,Electronics,2,1907.85,0.1,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100518,2024-02-28,C1044,P1005,Gel Pen Pack,Stationery,3,140.59,0.05,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100519,2023-12-11,C1311,P1011,Office Backpack,Lifestyle,1,2235.32,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100520,2025-11-19,C1004,P1002,USB-C Hub,Electronics,1,2061.34,0.05,Mumbai,Maharashtra,Marketplace,Net Banking,Returned
+ORD100521,2023-05-02,C1326,P1001,Wireless Mouse,ELECTRONICS,3,848.57,0.0,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100522,2024-05-26,C1212,P1001,Wireless Mouse,Electronics,1,851.03,0.0,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100523,2025-09-29,,P1005,Gel Pen Pack,Stationery,2,155.44,0.1,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100524,2025-07-14,C1131,P1012,Monitor,Electronics,1,14346.58,0.0,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100525,2025-01-25,C1215,P1011,Office Backpack,Lifestyle,2,2370.4,0.0,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100526,2023-07-10,C1193,P1005,Gel Pen Pack,Stationery,1,150.29,0.1,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100527,2025-03-25,C1148,P1004,Notebook Set,Stationery,1,305.39,0.0,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD100528,2024-07-03,C1436,P1011,Office Backpack,Lifestyle,2,2073.09,0.15,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100529,2023-09-25,C1382,P1003,Bluetooth Speaker,Electronics,1,2302.74,0.0,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100530,2023-04-05,C1048,P1010,Laptop Stand,Electronics,5,1483.28,0.15,Mumbai,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100531,2025-06-22,C1033,P1008,LED Desk Lamp,Home Office,2,1325.38,0.0,Kolkata,West Bengal,Website,Net Banking,Cancelled
+ORD100532,2024-02-19,C1227,P1008,LED Desk Lamp,Home Office,5,1251.97,0.0,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100533,2023-07-11,C1056,P1007,Ergonomic Chair,Furniture,2,9491.12,0.15,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD100534,2023-04-17,C1336,P1011,Office Backpack,Lifestyle,2,2115.52,0.1,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100535,2025-05-29,C1134,P1004,Notebook Set,Stationery,4,322.13,0.25,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100536,2023-06-09,C1176,P1005,Gel Pen Pack,Stationery,1,149.42,0.0,Pune,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100537,2023-01-20,C1107,P1006,Desk Organizer,Home Office,1,645.93,0.0,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100538,2023-09-28,C1418,P1002,USB-C Hub,Electronics,2,1778.37,0.2,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100539,2023-07-29,C1327,P1001,Wireless Mouse,Electronics,2,820.87,0.15,Mumbai,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100540,2023-10-08,C1415,P1010,Laptop Stand,Electronics,2,1630.42,0.05,jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100541,2023-05-21,C1314,P1012,Monitor,Electronics,2,13427.17,0.1,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100542,2023-11-07,C1311,P1009,Water Bottle,Lifestyle,5,472.69,0.0,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100543,2023-07-25,C1243,P1006,Desk Organizer,Home Office,2,556.08,0.05,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100544,2024-12-20,C1086,P1007,Ergonomic Chair,Furniture,2,9284.69,0.15,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100545,2024-07-21,C1289,P1010,Laptop Stand,Electronics,2,1617.19,0.1,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100546,2024-08-06,C1250,P1001,Wireless Mouse,Electronics,1,806.72,0.2,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100547,2025-11-09,C1306,P1001,Wireless Mouse,Electronics,2,795.81,0.15,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100548,2024-05-05,C1328,P1010,Laptop Stand,Electronics,2,1631.83,0.05,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD100549,2023-05-26,C1201,P1011,Office Backpack,Lifestyle,2,2217.38,0.05,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD100550,2025-03-03,C1414,P1001,Wireless Mouse,Electronics,1,791.75,0.05,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100551,2025-08-22,C1425,P1006,Desk Organizer,Home Office,1,584.32,0.05,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD100552,2024-06-20,C1259,P1010,Laptop Stand,Electronics,1,1681.07,0.15,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD100553,2025-11-03,C1050,P1008,LED Desk Lamp,Home Office,4,1335.24,0.0,Delhi,Delhi,Retail Store,Net Banking,Delivered
+ORD100554,2023-06-18,C1290,P1012,Monitor,Electronics,3,13112.92,0.1,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100555,2025-11-13,C1096,P1010,Laptop Stand,Electronics,1,1539.5,0.15,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD100556,2023-05-16,C1270,P1012,Monitor,Electronics,3,12571.64,0.0,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD100557,2023-04-29,C1424,P1012,Monitor,Electronics,1,13378.49,0.1,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD100558,2025-07-17,C1143,P1005,Gel Pen Pack,Stationery,1,145.11,0.0,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD100559,2023-09-02,C1377,P1002,USB-C Hub,Electronics,1,1924.19,0.0,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100560,2025-10-13,C1132,P1002,USB-C Hub,Electronics,1,1940.55,0.1,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD100561,2024-07-04,,P1002,USB-C Hub,Electronics,3,2038.43,0.15,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100562,2024-07-11,C1237,P1008,LED Desk Lamp,Home Office,2,1336.24,0.15,Mumbai,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100563,2023-06-07,C1008,P1012,Monitor,Electronics,2,13685.99,0.05,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100564,2025-10-20,C1234,P1001,Wireless Mouse,Electronics,1,836.13,0.1,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100565,2023-08-25,C1153,P1003,Bluetooth Speaker,Electronics,1,2458.51,0.25,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD100566,2024-05-15,C1110,P1002,USB-C Hub,Electronics,1,1841.98,0.1,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100567,2024-01-02,C1225,P1008,LED Desk Lamp,Home Office,4,1258.07,0.15,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100568,2025-05-02,C1368,P1001,Wireless Mouse,Electronics,1,829.99,,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100569,2025-02-02,C1278,P1009,Water Bottle,Lifestyle,2,523.02,0.1,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100570,2023-04-05,C1037,P1005,Gel Pen Pack,Stationery,1,139.61,0.1,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100571,2024-09-28,C1448,P1001,Wireless Mouse,Electronics,1,837.09,0.15,Hyderabad,Telangana,Website,UPI,Delivered
+ORD100572,2025-01-25,C1419,P1006,Desk Organizer,Home Office,2,646.91,0.2,Bengaluru,Karnataka,Mobile App,Debit Card,Delivered
+ORD100573,2024-05-11,C1056,P1012,Monitor,Electronics,1,13806.94,0.0,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100574,2024-02-05,C1093,P1002,USB-C Hub,Electronics,1,1890.82,,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD100575,2023-02-18,C1075,P1005,Gel Pen Pack,Stationery,1,156.52,0.2,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100576,2024-11-17,C1224,P1008,LED Desk Lamp,Home Office,1,1260.31,0.2,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD100577,2023-08-01,C1040,P1005,Gel Pen Pack,Stationery,4,161.16,0.05,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD100578,2023-10-19,C1046,P1008,LED Desk Lamp,Home Office,1,1361.47,0.0,Delhi,Delhi,Website,Credit Card,Delivered
+ORD100579,2025-11-30,C1065,P1008,LED Desk Lamp,Home Office,1,1395.85,0.05,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100580,2023-07-15,C1039,P1011,Office Backpack,Lifestyle,2,2207.32,0.15,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100581,2023-05-08,C1123,P1006,Desk Organizer,Home Office,1,638.74,0.15,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100582,2024-10-07,C1263,P1011,Office Backpack,Lifestyle,3,2381.81,0.0,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100583,2024-04-23,C1420,P1007,Ergonomic Chair,Furniture,1,9136.36,0.05,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100584,2023-08-12,C1375,P1004,Notebook Set,Stationery,1,279.27,0.1,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100585,2024-10-05,C1400,P1008,LED Desk Lamp,HOME OFFICE,1,1289.73,0.1,Jaipur,Rajasthan,Website,Credit Card,Delivered
+ORD100586,2025-07-14,C1372,P1003,Bluetooth Speaker,Electronics,3,2478.69,0.15,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100587,2023-07-05,C1342,P1007,Ergonomic Chair,Furniture,3,8724.34,0.2,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100588,2023-03-24,C1031,P1009,Water Bottle,Lifestyle,2,515.46,0.2,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100589,2024-12-29,C1447,P1005,Gel Pen Pack,Stationery,2,155.94,0.1,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100590,2023-12-23,C1344,P1012,Monitor,Electronics,1,13208.66,0.0,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100591,2024-05-26,C1102,P1011,Office Backpack,Lifestyle,1,2170.4,0.0,Mumbai,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100592,2023-09-06,C1333,P1006,Desk Organizer,Home Office,2,642.23,0.0,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100593,2023-09-25,C1259,P1005,Gel Pen Pack,Stationery,2,148.41,0.05,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100594,2024-06-14,C1353,P1006,Desk Organizer,Home Office,2,602.1,0.1,Mumbai,Maharashtra,Website,Credit Card,Cancelled
+ORD100595,2025-06-27,C1369,P1009,Water Bottle,Lifestyle,1,548.07,0.2,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100596,2023-09-08,C1163,P1002,USB-C Hub,Electronics,2,1839.19,0.15,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100597,2025-06-06,C1108,P1009,Water Bottle,Lifestyle,1,522.54,0.2,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100598,2023-12-20,C1081,P1005,Gel Pen Pack,Stationery,3,162.08,0.2,Hyderabad,Telangana,Marketplace,Debit Card,Delivered
+ORD100599,2024-07-27,C1075,P1010,Laptop Stand,Electronics,1,1577.99,0.2,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD100600,2024-05-18,C1252,P1009,Water Bottle,Lifestyle,1,491.98,0.15,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD100601,2025-09-08,C1320,P1005,Gel Pen Pack,Stationery,3,148.62,0.0,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100602,2025-05-08,C1373,P1008,LED Desk Lamp,Home Office,4,1299.67,0.0,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD100603,2023-02-09,C1063,P1011,Office Backpack,Lifestyle,1,2211.18,0.25,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100604,2024-12-05,C1114,P1001,Wireless Mouse,Electronics,1,804.66,0.15,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD100605,2024-10-15,C1160,P1005,Gel Pen Pack,Stationery,1,155.84,0.15,Bengaluru,Karnataka,Website,Debit Card,Delivered
+ORD100606,2023-04-30,C1319,P1002,USB-C Hub,Electronics,1,2035.34,0.0,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100607,2023-11-23,C1135,P1007,Ergonomic Chair,Furniture,1,8695.26,0.1,Mumbai,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100608,2025-12-28,C1446,P1002,USB-C Hub,Electronics,1,2054.23,0.1,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD100609,2024-12-27,C1042,P1011,Office Backpack,Lifestyle,1,2308.99,0.05,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100610,2025-01-04,C1446,P1010,Laptop Stand,Electronics,1,1582.69,0.1,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100611,2023-10-19,C1015,P1003,Bluetooth Speaker,Electronics,-1,2654.83,0.0,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100612,2025-10-01,C1237,P1011,Office Backpack,Lifestyle,2,2442.12,0.15,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD100613,2024-03-24,C1304,P1006,Desk Organizer,Home Office,2,644.67,0.0,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100614,2024-02-17,C1040,P1004,Notebook Set,Stationery,1,323.1,0.1,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100615,2023-05-02,C1304,P1011,Office Backpack,Lifestyle,5,2083.56,0.15,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100616,2023-08-16,C1296,P1011,Office Backpack,Lifestyle,1,2304.98,0.05,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD100617,2023-07-26,C1292,P1006,Desk Organizer,Home Office,1,564.85,0.0,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD100618,2025-06-13,C1343,P1001,Wireless Mouse,Electronics,2,814.12,0.0,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100619,2024-12-31,C1312,P1009,Water Bottle,Lifestyle,1,538.39,0.05,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD100620,2023-09-18,C1364,P1010,Laptop Stand,Electronics,1,1672.19,0.25,pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100621,2025-03-12,C1381,P1007,Ergonomic Chair,Furniture,2,9172.33,0.1,Ahmedabad,Gujarat,Marketplace,Cash on Delivery,Delivered
+ORD100622,2024-03-28,C1204,P1010,Laptop Stand,Electronics,5,1604.95,0.0,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD100623,2024-05-02,C1269,P1001,Wireless Mouse,Electronics,1,779.74,0.15,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD100624,2024-11-18,C1094,P1002,USB-C Hub,Electronics,1,1761.6,0.2,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100625,2023-05-19,C1313,P1001,Wireless Mouse,Electronics,1,810.96,0.05,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD100626,2023-04-09,C1304,P1008,LED Desk Lamp,Home Office,1,1398.98,0.05,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100627,2025-04-27,C1306,P1001,Wireless Mouse,Electronics,4,903.03,0.15,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD100628,2023-07-27,C1059,P1005,Gel Pen Pack,Stationery,1,157.66,0.15,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100629,2023-03-10,C1100,P1005,Gel Pen Pack,Stationery,1,158.01,0.15,Delhi,Delhi,Website,UPI,Delivered
+ORD100630,2023-06-01,C1276,P1008,LED Desk Lamp,Home Office,2,1254.81,0.05,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100631,2023-06-03,C1021,P1010,Laptop Stand,Electronics,1,1590.21,0.0,Mumbai,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100632,2025-09-15,C1034,P1003,Bluetooth Speaker,Electronics,2,2493.8,0.0,Ahmedabad,Gujarat,Retail Store,Credit Card,Delivered
+ORD100633,2025-06-08,C1346,P1005,Gel Pen Pack,Stationery,1,153.93,0.15,Pune,Maharashtra,Website,Credit Card,Delivered
+ORD100634,2024-01-25,C1431,P1004,Notebook Set,Stationery,2,322.84,0.1,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100635,2024-05-01,C1195,P1009,Water Bottle,Lifestyle,1,494.24,0.1,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100636,2025-10-02,C1380,P1004,Notebook Set,Stationery,1,308.02,0.0,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100637,2023-06-29,C1185,P1007,Ergonomic Chair,Furniture,4,8334.49,0.1,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100638,2024-02-28,C1397,P1005,Gel Pen Pack,Stationery,1,143.4,0.0,Pune,Maharashtra,Mobile App,Net Banking,Returned
+ORD100639,2023-08-25,C1098,P1004,Notebook Set,Stationery,1,301.97,0.0,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD100640,2023-07-06,C1212,P1002,USB-C Hub,Electronics,1,1924.53,0.05,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100641,2025-01-26,C1247,P1003,Bluetooth Speaker,Electronics,1,2806.96,0.0,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100642,2025-08-10,C1291,P1002,USB-C Hub,Electronics,1,2146.42,0.1,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100643,2023-05-07,C1275,P1012,Monitor,Electronics,1,14112.56,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100644,2025-04-27,C1139,P1008,LED Desk Lamp,Home Office,1,1331.06,0.2,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD100645,2025-05-07,C1068,P1012,Monitor,Electronics,1,13928.47,0.25,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100646,2025-03-19,C1393,P1001,Wireless Mouse,Electronics,3,844.7,0.15,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD100647,2023-12-21,C1068,P1006,Desk Organizer,Home Office,2,597.54,0.0,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100648,2023-03-29,C1351,P1003,Bluetooth Speaker,Electronics,3,2313.72,0.15,jaipur,Rajasthan,Website,Net Banking,Cancelled
+ORD100649,2024-02-18,C1450,P1001,Wireless Mouse,Electronics,1,826.65,0.0,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100650,2023-06-28,C1155,P1007,Ergonomic Chair,Furniture,2,9178.84,0.05,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100651,2025-11-30,C1314,P1008,LED Desk Lamp,Home Office,1,1372.22,0.2,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100652,2025-12-06,C1412,P1008,LED Desk Lamp,Home Office,1,1316.74,0.0,Jaipur,Rajasthan,Website,Credit Card,Delivered
+ORD100653,2023-07-25,C1111,P1001,Wireless Mouse,Electronics,5,765.3,0.15,MUMBAI,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100654,2024-12-05,C1243,P1002,USB-C Hub,Electronics,1,1882.11,0.05,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100655,2025-08-26,C1360,P1012,Monitor,Electronics,3,12790.4,0.15,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100656,2025-04-02,C1310,P1002,USB-C Hub,Electronics,3,1990.84,0.05,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD100657,2024-05-01,C1071,P1001,Wireless Mouse,Electronics,1,859.23,0.15,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD100658,2023-02-11,C1418,P1012,Monitor,Electronics,1,13267.69,0.0,Hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD100659,2023-07-21,C1245,P1004,Notebook Set,Stationery,1,304.25,0.0,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD100660,2024-10-19,C1421,P1005,Gel Pen Pack,Stationery,2,140.33,0.2,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100661,2024-01-20,C1228,P1010,Laptop Stand,Electronics,2,1664.08,0.15,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100662,2025-09-19,C1324,P1011,Office Backpack,Lifestyle,2,2212.17,0.0,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100663,2023-05-15,C1273,P1001,Wireless Mouse,Electronics,1,743.33,0.1,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD100664,2023-03-01,C1064,P1002,USB-C Hub,Electronics,2,2002.39,0.15,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100665,2023-04-29,C1140,P1006,Desk Organizer,Home Office,1,599.23,0.1,Bengaluru,Karnataka,Website,Debit Card,Delivered
+ORD100666,2024-02-12,C1289,P1003,Bluetooth Speaker,Electronics,4,2340.75,0.15,Delhi,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD100667,2025-03-23,C1268,P1003,Bluetooth Speaker,Electronics,2,2428.37,0.15,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100668,2025-07-02,C1117,P1007,Ergonomic Chair,Furniture,1,8736.74,0.15,Pune,Maharashtra,Retail Store,Debit Card,Delivered
+ORD100669,2024-12-06,C1132,P1011,Office Backpack,Lifestyle,2,2284.08,0.0,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD100670,2024-08-06,C1197,P1009,Water Bottle,Lifestyle,4,466.85,0.05,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100671,2024-03-14,C1106,P1005,Gel Pen Pack,Stationery,2,149.09,0.1,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD100672,2025-04-18,C1003,P1004,Notebook Set,Stationery,1,300.2,0.2,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100673,2023-12-21,C1272,P1005,Gel Pen Pack,Stationery,2,138.71,0.0,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD100674,2024-07-17,C1411,P1003,Bluetooth Speaker,Electronics,5,2599.05,0.1,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100675,2024-05-31,C1003,P1002,USB-C Hub,Electronics,2,1869.66,0.2,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD100676,2025-03-24,C1080,P1010,Laptop Stand,Electronics,1,1741.81,0.25,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100677,2024-08-01,C1208,P1008,LED Desk Lamp,Home Office,3,1249.99,0.2,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100678,2024-07-20,C1390,P1001,Wireless Mouse,Electronics,2,841.41,0.1,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100679,2024-01-21,C1223,P1008,LED Desk Lamp,Home Office,1,1242.68,0.0,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100680,2025-04-07,C1144,P1008,LED Desk Lamp,Home Office,1,1299.03,0.2,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD100681,2024-08-28,C1169,P1005,Gel Pen Pack,Stationery,1,141.69,0.15,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100682,2024-01-24,C1243,P1005,Gel Pen Pack,Stationery,1,161.5,0.15,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD100683,2025-01-04,C1326,P1011,Office Backpack,Lifestyle,3,2235.21,0.1,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD100684,2024-01-06,C1113,P1008,LED Desk Lamp,Home Office,1,1244.09,0.0,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100685,2024-01-10,C1297,P1010,Laptop Stand,Electronics,2,1557.05,0.0,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100686,2024-09-20,C1077,P1005,Gel Pen Pack,Stationery,1,160.36,0.2,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100687,2024-08-25,C1413,P1011,Office Backpack,Lifestyle,4,2197.1,0.0,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100688,2023-05-26,C1423,P1001,Wireless Mouse,Electronics,1,770.08,0.0,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100689,2025-12-21,C1429,P1002,USB-C Hub,Electronics,4,2072.41,0.1,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD100690,2023-10-09,C1011,P1009,Water Bottle,Lifestyle,1,513.92,0.0,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD100691,2025-07-26,C1422,P1004,Notebook Set,Stationery,1,323.68,0.1,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100692,2023-06-15,C1366,P1005,Gel Pen Pack,Stationery,2,141.12,0.1,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100693,2024-10-03,C1122,P1004,Notebook Set,Stationery,1,291.97,0.05,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100694,2023-12-12,C1114,P1005,Gel Pen Pack,Stationery,1,141.97,0.1,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD100695,2023-09-23,C1058,P1009,Water Bottle,Lifestyle,4,495.29,0.2,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100696,2025-02-24,C1258,P1001,Wireless Mouse,ELECTRONICS,1,866.38,0.15,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD100697,2023-01-29,C1380,P1001,Wireless Mouse,Electronics,2,786.23,0.05,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD100698,2024-05-24,C1183,P1002,USB-C Hub,Electronics,5,1767.63,0.15,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100699,2025-02-24,C1288,P1009,Water Bottle,Lifestyle,2,553.18,0.0,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100700,2024-09-02,C1179,P1001,Wireless Mouse,Electronics,2,783.14,0.0,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD100701,2025-12-09,C1084,P1004,Notebook Set,Stationery,1,289.09,0.2,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100702,2024-12-02,C1025,P1004,Notebook Set,Stationery,5,324.1,0.0,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100703,2025-04-06,C1322,P1008,LED Desk Lamp,Home Office,2,1264.97,0.0,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100704,2024-03-08,C1079,P1001,Wireless Mouse,Electronics,2,869.09,0.1,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD100705,2025-02-07,C1320,P1012,Monitor,Electronics,2,12529.78,0.2,Delhi,Delhi,Website,UPI,Delivered
+ORD100706,2023-08-10,C1342,P1004,Notebook Set,Stationery,1,300.86,0.2,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD100707,2025-06-28,C1116,P1006,Desk Organizer,Home Office,1,579.23,0.0,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD100708,2023-11-10,C1131,P1009,Water Bottle,LIFESTYLE,3,471.24,0.05,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD100709,2025-12-01,C1088,P1001,Wireless Mouse,Electronics,1,863.36,0.1,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100710,2025-11-13,C1256,P1005,Gel Pen Pack,Stationery,1,145.04,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD100711,2025-10-16,C1420,P1010,Laptop Stand,Electronics,3,1789.07,0.1,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD100712,2024-02-18,C1096,P1012,Monitor,Electronics,1,11967.07,0.0,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD100713,2025-10-13,C1050,P1001,Wireless Mouse,Electronics,1,863.54,0.15,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100714,2023-01-27,C1275,P1008,LED Desk Lamp,Home Office,1,1360.24,0.05,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100715,2023-11-02,C1006,P1004,Notebook Set,Stationery,1,289.02,0.15,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD100716,2024-06-08,C1442,P1009,Water Bottle,Lifestyle,2,470.87,0.15,bengaluru,Karnataka,Retail Store,Debit Card,Cancelled
+ORD100717,2024-06-24,C1305,P1002,USB-C Hub,Electronics,2,1903.17,0.1,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100718,2023-03-22,C1007,P1001,Wireless Mouse,Electronics,1,748.65,0.0,Delhi,Delhi,Mobile App,Debit Card,Delivered
+ORD100719,2025-05-22,C1060,P1012,Monitor,Electronics,1,13253.78,0.05,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD100720,2023-01-20,C1060,P1011,Office Backpack,Lifestyle,1,2366.69,0.05,Pune,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100721,2024-07-03,C1052,P1007,Ergonomic Chair,Furniture,1,9505.86,0.2,Mumbai,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100722,2023-08-22,C1427,P1006,Desk Organizer,Home Office,4,607.39,0.0,Jaipur,Rajasthan,Retail Store,Debit Card,Returned
+ORD100723,2025-02-28,C1221,P1001,Wireless Mouse,Electronics,2,778.81,0.05,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100724,2023-08-20,C1135,P1007,Ergonomic Chair,FURNITURE,1,8400.42,0.15,Pune,Maharashtra,Website,Credit Card,Cancelled
+ORD100725,2023-08-01,C1033,P1006,Desk Organizer,Home Office,1,574.31,0.0,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD100726,2024-01-07,C1141,P1010,Laptop Stand,Electronics,4,1509.19,0.25,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD100727,2025-09-16,C1268,P1008,LED Desk Lamp,Home Office,2,1404.59,0.15,Kolkata,West Bengal,Website,Net Banking,Delivered
+ORD100728,2023-04-05,C1286,P1006,Desk Organizer,Home Office,1,584.06,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD100729,2025-12-10,C1300,P1001,Wireless Mouse,Electronics,1,777.8,0.0,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD100730,2023-07-15,C1060,P1008,LED Desk Lamp,Home Office,2,1288.06,0.0,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100731,2023-11-01,C1196,P1004,Notebook Set,Stationery,2,304.51,0.1,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100732,2025-11-01,C1388,P1006,Desk Organizer,Home Office,4,653.21,0.1,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100733,2025-10-03,C1216,P1001,Wireless Mouse,Electronics,4,809.57,0.0,Hyderabad,Telangana,Marketplace,Debit Card,Delivered
+ORD100734,2023-04-14,C1093,P1012,Monitor,Electronics,2,12063.75,0.0,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100735,2023-06-11,C1012,P1008,LED Desk Lamp,Home Office,1,1401.2,0.2,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD100736,2023-06-30,C1087,P1006,Desk Organizer,Home Office,2,580.8,0.0,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD100737,2023-02-06,C1332,P1001,Wireless Mouse,Electronics,1,777.35,0.0,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100738,2023-01-01,C1091,P1005,Gel Pen Pack,Stationery,2,157.38,0.1,Mumbai,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100739,2024-02-28,C1382,P1005,Gel Pen Pack,Stationery,3,149.91,0.0,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD100740,2024-04-01,C1203,P1012,Monitor,Electronics,1,12016.98,0.0,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD100741,2025-08-26,C1166,P1004,Notebook Set,Stationery,1,332.77,0.05,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100742,2023-01-05,C1087,P1006,Desk Organizer,Home Office,-1,634.76,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100743,2025-12-05,C1047,P1006,Desk Organizer,Home Office,2,657.37,0.1,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100744,2025-10-05,C1403,P1010,Laptop Stand,Electronics,1,1539.21,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100745,2024-02-06,C1018,P1004,Notebook Set,Stationery,1,293.19,0.1,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD100746,2024-03-17,C1081,P1006,Desk Organizer,Home Office,2,619.0,0.05,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100747,2025-04-28,C1156,P1007,Ergonomic Chair,Furniture,2,9110.94,0.05,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD100748,2025-07-25,C1002,P1009,Water Bottle,Lifestyle,2,489.36,,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD100749,2025-06-05,C1402,P1001,Wireless Mouse,Electronics,3,787.53,0.1,Kolkata,West Bengal,Marketplace,Credit Card,Delivered
+ORD100750,2023-09-20,C1134,P1005,Gel Pen Pack,Stationery,1,160.27,0.1,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100751,2024-10-21,C1430,P1004,Notebook Set,Stationery,3,321.97,0.1,Jaipur,Rajasthan,Retail Store,Credit Card,Returned
+ORD100752,2024-07-14,C1236,P1003,Bluetooth Speaker,Electronics,2,2532.3,0.2,Jaipur,Rajasthan,Mobile App,Net Banking,Returned
+ORD100753,2023-10-01,C1198,P1003,Bluetooth Speaker,Electronics,1,2595.88,0.25,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100754,2024-09-04,C1329,P1001,Wireless Mouse,Electronics,2,860.98,0.0,Hyderabad,Telangana,Marketplace,Cash on Delivery,Delivered
+ORD100755,2024-08-18,C1050,P1009,Water Bottle,Lifestyle,2,464.92,0.15,Hyderabad,Telangana,Marketplace,Credit Card,Cancelled
+ORD100756,2025-10-28,C1186,P1006,Desk Organizer,Home Office,3,666.11,0.15,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100757,2025-09-10,C1233,P1003,Bluetooth Speaker,Electronics,1,2435.59,0.1,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100758,2023-01-27,C1278,P1002,USB-C Hub,Electronics,1,1764.64,0.05,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD100759,2023-04-26,C1105,P1008,LED Desk Lamp,Home Office,2,1207.73,0.2,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100760,2024-08-09,C1156,P1011,Office Backpack,Lifestyle,1,2269.44,0.05,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD100761,2024-02-22,C1070,P1006,Desk Organizer,Home Office,1,640.53,0.2,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100762,2024-04-04,C1202,P1010,Laptop Stand,Electronics,1,1622.65,0.25,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD100763,2023-04-07,C1112,P1001,Wireless Mouse,Electronics,1,779.74,0.05,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100764,2023-04-21,C1022,P1001,Wireless Mouse,Electronics,2,770.94,0.0,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100765,2024-04-06,C1019,P1004,Notebook Set,Stationery,3,292.19,0.1,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100766,2024-08-25,C1366,P1009,Water Bottle,Lifestyle,1,528.78,0.15,Kolkata,West Bengal,Marketplace,UPI,Cancelled
+ORD100767,2024-01-18,C1252,P1001,Wireless Mouse,Electronics,1,869.67,0.15,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD100768,2024-07-25,C1116,P1012,Monitor,Electronics,3,12004.26,0.15,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD100769,2023-01-12,C1204,P1010,Laptop Stand,Electronics,1,1549.42,0.15,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100770,2023-03-23,C1358,P1010,Laptop Stand,Electronics,2,1552.97,0.05,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100771,2024-09-08,C1436,P1005,Gel Pen Pack,Stationery,1,151.07,0.05,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD100772,2025-12-12,C1078,P1007,Ergonomic Chair,Furniture,1,9925.56,0.2,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD100773,2023-11-23,C1420,P1007,Ergonomic Chair,Furniture,1,9357.98,0.15,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD100774,2024-03-12,C1138,P1007,Ergonomic Chair,Furniture,2,9426.04,0.1,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD100775,2025-12-22,C1336,P1003,Bluetooth Speaker,Electronics,1,2650.95,0.0,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD100776,2025-07-01,C1104,P1011,Office Backpack,Lifestyle,2,2154.21,0.15,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD100777,2025-02-20,C1323,P1009,Water Bottle,Lifestyle,1,552.8,0.05,Mumbai,Maharashtra,Retail Store,Debit Card,Delivered
+ORD100778,2023-02-20,C1014,P1007,Ergonomic Chair,Furniture,1,9265.63,0.15,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD100779,2024-01-30,C1256,P1006,Desk Organizer,Home Office,2,620.46,0.0,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100780,2025-12-28,C1201,P1012,Monitor,Electronics,2,14707.95,0.25,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100781,2025-05-18,C1414,P1009,Water Bottle,Lifestyle,2,492.64,0.1,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100782,2023-05-28,C1269,P1010,Laptop Stand,Electronics,1,1707.09,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100783,2023-03-19,C1172,P1006,Desk Organizer,Home Office,1,562.14,0.0,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD100784,2023-05-25,C1012,P1010,Laptop Stand,Electronics,1,1484.32,0.0,Bengaluru,Karnataka,Mobile App,Net Banking,Delivered
+ORD100785,2025-04-08,C1214,P1002,USB-C Hub,Electronics,2,2083.98,0.0,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD100786,2025-12-31,C1330,P1008,LED Desk Lamp,Home Office,1,1312.6,0.2,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD100787,2023-04-04,C1245,P1011,Office Backpack,Lifestyle,1,2146.45,0.1,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD100788,2024-08-16,C1207,P1006,Desk Organizer,Home Office,5,562.73,0.2,Delhi,Delhi,Website,Net Banking,Delivered
+ORD100789,2025-02-20,C1389,P1007,Ergonomic Chair,Furniture,1,9436.35,0.05,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD100790,2024-03-26,C1193,P1010,Laptop Stand,Electronics,1,1722.75,0.1,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100791,2024-08-27,C1232,P1009,Water Bottle,Lifestyle,1,535.81,0.0,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100792,2023-01-23,C1255,P1012,Monitor,Electronics,2,-99.0,0.1,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100793,2025-03-18,C1377,P1004,Notebook Set,Stationery,2,293.51,0.05,Mumbai,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100794,2024-03-09,C1191,P1005,Gel Pen Pack,Stationery,1,146.88,0.15,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100795,2024-06-01,C1116,P1009,Water Bottle,Lifestyle,1,524.04,0.15,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD100796,2023-04-22,C1447,P1005,Gel Pen Pack,Stationery,2,160.26,0.15,Kolkata,West Bengal,Website,UPI,Delivered
+ORD100797,2024-05-28,C1176,P1006,Desk Organizer,Home Office,2,580.87,0.15,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100798,2024-11-08,C1215,P1004,Notebook Set,Stationery,2,279.49,0.0,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100799,2023-07-24,C1449,P1011,Office Backpack,Lifestyle,3,2378.7,0.1,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100800,2025-09-22,C1199,P1004,Notebook Set,Stationery,1,312.58,0.0,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD100801,2023-11-09,C1421,P1001,Wireless Mouse,Electronics,1,768.56,0.0,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD100802,2023-01-10,C1007,P1003,Bluetooth Speaker,Electronics,2,2438.22,0.1,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD100803,2024-07-20,C1401,P1008,LED Desk Lamp,Home Office,2,1275.79,0.0,Hyderabad,Telangana,Marketplace,Debit Card,Delivered
+ORD100804,2025-09-09,C1328,P1004,Notebook Set,Stationery,4,318.96,0.0,Kolkata,West Bengal,Retail Store,Debit Card,Delivered
+ORD100805,2025-09-24,C1203,P1010,Laptop Stand,Electronics,2,1688.42,0.2,Mumbai,Maharashtra,Marketplace,UPI,Delivered
+ORD100806,2024-07-28,C1340,P1009,Water Bottle,Lifestyle,2,475.18,0.0,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD100807,2023-06-04,C1435,P1008,LED Desk Lamp,Home Office,1,1325.15,0.0,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD100808,2025-04-09,C1291,P1010,Laptop Stand,Electronics,1,1757.37,0.1,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD100809,2025-08-24,C1125,P1001,Wireless Mouse,Electronics,2,789.41,0.0,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100810,2024-08-18,C1194,P1009,Water Bottle,Lifestyle,1,492.11,0.0,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD100811,2025-03-23,C1387,P1004,Notebook Set,Stationery,1,302.43,0.0,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100812,2023-12-06,C1304,P1004,Notebook Set,Stationery,1,283.14,0.05,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100813,2023-10-27,C1396,P1001,Wireless Mouse,Electronics,1,858.46,0.2,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100814,2024-04-19,C1151,P1009,Water Bottle,Lifestyle,1,494.69,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD100815,2024-02-28,C1058,P1005,Gel Pen Pack,Stationery,2,146.2,0.1,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD100816,2023-04-06,C1168,P1004,Notebook Set,Stationery,1,315.27,0.2,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100817,2024-07-14,C1145,P1007,Ergonomic Chair,Furniture,1,8360.67,0.15,Delhi,Delhi,Marketplace,Net Banking,Delivered
+ORD100818,2025-01-18,C1343,P1002,USB-C Hub,Electronics,1,1980.48,0.0,Mumbai,Maharashtra,Mobile App,Credit Card,Delivered
+ORD100819,2025-11-23,C1043,P1004,Notebook Set,Stationery,4,318.6,0.05,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100820,2025-09-24,C1107,P1001,Wireless Mouse,Electronics,2,777.51,0.1,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100821,2025-06-19,C1339,P1005,Gel Pen Pack,Stationery,1,143.81,0.0,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100822,2024-03-09,C1445,P1005,Gel Pen Pack,Stationery,3,143.26,0.1,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100823,2023-08-31,C1308,P1001,Wireless Mouse,Electronics,1,780.08,0.1,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100824,2025-09-13,C1431,P1005,Gel Pen Pack,Stationery,2,165.42,0.15,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100825,2025-04-21,C1447,P1009,Water Bottle,Lifestyle,3,550.88,0.15,Ahmedabad,Gujarat,Marketplace,Cash on Delivery,Delivered
+ORD100826,2023-11-26,C1255,P1010,Laptop Stand,Electronics,4,1600.26,0.1,Pune,Maharashtra,Website,Credit Card,Delivered
+ORD100827,2023-04-25,C1232,P1011,Office Backpack,Lifestyle,1,2329.52,0.15,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100828,2025-04-10,C1245,P1012,Monitor,Electronics,1,14068.31,0.15,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD100829,2025-07-08,C1422,P1011,Office Backpack,Lifestyle,2,2329.16,0.0,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD100830,2023-10-20,C1358,P1012,Monitor,Electronics,1,13560.62,0.15,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100831,2025-07-17,C1199,P1003,Bluetooth Speaker,Electronics,1,2769.47,0.1,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100832,2023-08-11,C1344,P1001,Wireless Mouse,Electronics,2,769.06,0.2,Ahmedabad,Gujarat,Marketplace,Cash on Delivery,Delivered
+ORD100833,2025-05-09,C1140,P1003,Bluetooth Speaker,Electronics,1,2617.05,0.1,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100834,2023-03-21,C1128,P1009,Water Bottle,Lifestyle,1,488.25,0.0,Mumbai,Maharashtra,Website,Credit Card,Delivered
+ORD100835,2023-01-03,C1126,P1012,Monitor,Electronics,1,14142.78,0.05,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100836,2025-12-21,C1376,P1001,Wireless Mouse,Electronics,1,772.73,0.15,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100837,2025-02-19,C1231,P1004,Notebook Set,Stationery,2,319.43,0.2,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD100838,2025-09-04,C1160,P1012,Monitor,Electronics,2,14316.96,0.15,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD100839,2025-04-16,C1222,P1009,Water Bottle,Lifestyle,1,544.32,0.25,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100840,2025-12-06,C1161,P1001,Wireless Mouse,Electronics,3,896.28,0.0,Mumbai,Maharashtra,Website,Credit Card,Delivered
+ORD100841,2024-10-08,C1237,P1012,Monitor,Electronics,4,12241.68,0.05,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100842,2024-06-03,C1372,P1009,Water Bottle,Lifestyle,1,486.63,0.0,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD100843,2024-07-18,C1070,P1007,Ergonomic Chair,Furniture,2,9271.8,0.15,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD100844,2025-09-15,C1035,P1005,Gel Pen Pack,Stationery,1,142.97,0.0,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100845,2024-06-03,C1141,P1002,USB-C Hub,Electronics,1,1797.91,0.1,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD100846,2023-10-10,C1379,P1008,LED Desk Lamp,Home Office,4,1371.34,0.1,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100847,2023-07-25,C1062,P1007,Ergonomic Chair,Furniture,1,8938.26,0.05,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD100848,2023-04-17,C1285,P1005,Gel Pen Pack,Stationery,1,154.45,0.2,Pune,Maharashtra,Retail Store,UPI,Returned
+ORD100849,2023-07-06,C1346,P1008,LED Desk Lamp,Home Office,1,1201.94,0.15,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD100850,2023-06-30,C1287,P1006,Desk Organizer,Home Office,1,584.46,0.2,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD100851,2023-03-19,C1281,P1006,Desk Organizer,Home Office,2,593.21,0.1,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD100852,2024-08-09,C1343,P1004,Notebook Set,Stationery,1,309.93,0.0,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD100853,2023-01-22,C1358,P1004,Notebook Set,Stationery,2,307.75,0.1,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD100854,2025-11-11,C1287,P1008,LED Desk Lamp,Home Office,4,1359.63,0.15,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD100855,2024-05-04,C1318,P1003,Bluetooth Speaker,Electronics,1,2479.22,0.0,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD100856,2025-03-29,C1171,P1004,Notebook Set,Stationery,1,318.0,0.0,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100857,2025-11-26,C1362,P1005,Gel Pen Pack,Stationery,2,144.71,0.1,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD100858,2024-08-05,C1250,P1001,Wireless Mouse,Electronics,2,781.77,0.2,Hyderabad,Telangana,Mobile App,Debit Card,Returned
+ORD100859,2024-04-08,C1146,P1007,Ergonomic Chair,Furniture,1,9227.75,0.1,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD100860,2023-01-10,C1262,P1005,Gel Pen Pack,Stationery,1,139.9,0.0,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100861,2023-05-29,C1450,P1005,Gel Pen Pack,Stationery,1,161.22,0.0,Delhi,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD100862,2024-06-11,C1396,P1005,Gel Pen Pack,Stationery,2,160.25,0.15,Delhi,Delhi,Retail Store,Cash on Delivery,Returned
+ORD100863,2025-09-17,C1209,P1012,Monitor,Electronics,1,14705.54,0.2,Bengaluru,Karnataka,Mobile App,Net Banking,Returned
+ORD100864,2025-08-01,C1218,P1012,Monitor,Electronics,1,12764.85,0.1,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD100865,2025-02-22,C1233,P1006,Desk Organizer,Home Office,3,638.79,0.05,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD100866,2024-12-24,C1331,P1005,Gel Pen Pack,Stationery,1,141.95,0.0,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100867,2025-03-28,C1365,P1009,Water Bottle,Lifestyle,1,510.47,0.1,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100868,2025-09-02,C1071,P1010,Laptop Stand,Electronics,3,1684.57,,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100869,2024-07-05,C1231,P1006,Desk Organizer,Home Office,3,590.42,0.05,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100870,2024-04-25,C1348,P1004,Notebook Set,Stationery,1,302.77,0.1,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100871,2024-05-26,C1194,P1003,Bluetooth Speaker,Electronics,3,2446.07,0.2,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD100872,2023-06-10,C1045,P1003,Bluetooth Speaker,ELECTRONICS,1,2527.05,0.15,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100873,2023-03-28,C1063,P1011,Office Backpack,Lifestyle,1,2242.19,0.1,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100874,2024-07-16,C1131,P1001,Wireless Mouse,Electronics,1,770.88,0.05,Kolkata,West Bengal,Marketplace,Cash on Delivery,Cancelled
+ORD100875,2024-07-27,C1293,P1006,Desk Organizer,Home Office,1,558.52,0.0,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100876,2023-04-21,C1145,P1002,USB-C Hub,Electronics,2,1804.48,0.2,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100877,2025-10-26,C1095,P1001,Wireless Mouse,Electronics,3,806.2,0.05,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD100878,2025-07-25,C1021,P1012,Monitor,Electronics,4,14080.48,0.0,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD100879,2023-01-25,C1268,P1012,Monitor,Electronics,4,12193.33,0.05,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD100880,2025-01-10,C1420,P1004,Notebook Set,Stationery,1,322.82,0.0,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100881,2024-07-05,C1156,P1001,Wireless Mouse,Electronics,1,756.56,0.1,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD100882,2025-05-18,C1323,P1002,USB-C Hub,Electronics,4,1865.64,0.1,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD100883,2025-01-17,C1089,P1001,Wireless Mouse,Electronics,1,772.22,0.0,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100884,2023-09-26,C1024,P1006,Desk Organizer,Home Office,2,559.97,0.1,Bengaluru,Karnataka,Website,Credit Card,Delivered
+ORD100885,2025-06-04,C1262,P1003,Bluetooth Speaker,Electronics,1,2422.78,0.0,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100886,2025-08-26,C1245,P1005,Gel Pen Pack,Stationery,5,168.81,0.25,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100887,2025-11-24,C1191,P1001,Wireless Mouse,Electronics,1,798.06,0.0,Hyderabad,Telangana,Retail Store,Cash on Delivery,Delivered
+ORD100888,2023-04-08,C1291,P1001,Wireless Mouse,Electronics,1,781.22,0.0,Jaipur,Rajasthan,Website,UPI,Delivered
+ORD100889,2024-03-17,C1323,P1004,Notebook Set,Stationery,3,287.33,0.1,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100890,2025-07-10,C1109,P1002,USB-C Hub,Electronics,1,1868.15,0.0,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD100891,2024-06-11,C1276,P1003,Bluetooth Speaker,Electronics,1,2694.07,0.0,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD100892,2024-02-12,C1434,P1007,Ergonomic Chair,Furniture,1,8662.47,0.1,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100893,2025-09-25,C1040,P1009,Water Bottle,Lifestyle,1,494.5,0.05,KOLKATA,West Bengal,Website,Debit Card,Delivered
+ORD100894,2025-08-07,C1314,P1011,Office Backpack,Lifestyle,2,2472.14,0.1,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100895,2025-05-13,C1299,P1006,Desk Organizer,Home Office,3,627.22,0.05,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100896,2024-04-12,C1296,P1008,LED Desk Lamp,Home Office,1,1222.47,0.05,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100897,2025-03-20,C1141,P1011,Office Backpack,Lifestyle,1,2423.41,0.1,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD100898,2025-12-02,C1236,P1009,Water Bottle,Lifestyle,1,559.02,0.1,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD100899,2023-09-14,C1117,P1003,Bluetooth Speaker,Electronics,1,2454.88,0.15,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100900,2024-03-07,C1295,P1012,Monitor,Electronics,2,13168.22,0.1,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD100901,2025-08-27,C1373,P1011,Office Backpack,Lifestyle,1,2474.68,0.05,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD100902,2023-06-20,C1203,P1010,Laptop Stand,Electronics,4,1662.36,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD100903,2025-03-09,C1264,P1001,Wireless Mouse,Electronics,2,804.22,0.15,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD100904,2025-06-26,C1271,P1011,Office Backpack,Lifestyle,1,2256.74,0.1,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100905,2023-02-28,C1189,P1002,USB-C Hub,Electronics,1,1878.34,0.1,Ahmedabad,Gujarat,Mobile App,Debit Card,Delivered
+ORD100906,2025-09-02,C1151,P1007,Ergonomic Chair,Furniture,1,9327.3,0.05,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD100907,2023-12-29,C1124,P1009,Water Bottle,Lifestyle,1,504.9,0.2,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD100908,2024-09-26,C1215,P1006,Desk Organizer,Home Office,2,558.54,0.0,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD100909,2025-06-23,C1046,P1010,Laptop Stand,Electronics,3,1582.63,0.0,Delhi,Delhi,Mobile App,Credit Card,Delivered
+ORD100910,2024-09-13,C1231,P1004,Notebook Set,Stationery,2,306.69,0.15,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100911,2024-12-05,C1408,P1004,Notebook Set,Stationery,2,303.53,0.05,Delhi,Delhi,Retail Store,Net Banking,Delivered
+ORD100912,2025-09-04,C1266,P1011,Office Backpack,Lifestyle,1,2380.82,0.15,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100913,2024-04-18,C1412,P1006,Desk Organizer,Home Office,1,635.37,0.15,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD100914,2025-06-14,C1160,P1006,Desk Organizer,Home Office,2,601.49,0.1,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD100915,2025-02-13,C1390,P1004,Notebook Set,Stationery,1,336.36,0.15,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100916,2025-11-24,C1019,P1011,Office Backpack,Lifestyle,1,2491.42,0.0,Delhi,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD100917,2024-07-04,C1234,P1006,Desk Organizer,Home Office,2,643.6,0.15,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD100918,2023-10-07,C1155,P1008,LED Desk Lamp,Home Office,1,1307.78,0.1,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD100919,2025-07-16,C1010,P1006,Desk Organizer,Home Office,3,648.24,0.15,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD100920,2023-11-08,C1231,P1005,Gel Pen Pack,Stationery,1,137.93,0.05,Ahmedabad,Gujarat,Website,UPI,Delivered
+ORD100921,2024-07-31,C1214,P1003,Bluetooth Speaker,Electronics,1,2592.39,0.1,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD100922,2024-04-21,C1213,P1005,Gel Pen Pack,Stationery,1,150.7,0.1,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100923,2024-12-01,C1214,P1007,Ergonomic Chair,Furniture,1,9667.7,0.0,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD100924,2025-01-30,C1237,P1005,Gel Pen Pack,Stationery,1,156.36,,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD100925,2023-04-25,C1388,P1005,Gel Pen Pack,Stationery,2,143.38,0.0,Delhi,Delhi,Retail Store,Net Banking,Delivered
+ORD100926,2024-01-07,C1091,P1005,Gel Pen Pack,Stationery,1,148.72,0.25,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100927,2023-09-07,C1319,P1012,Monitor,Electronics,1,13702.75,0.1,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD100928,2024-05-21,C1083,P1008,LED Desk Lamp,Home Office,5,1339.5,0.2,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD100929,2025-12-03,C1327,P1002,USB-C Hub,Electronics,2,1979.57,0.2,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD100930,2024-10-23,C1427,P1010,Laptop Stand,Electronics,1,1507.48,0.0,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD100931,2025-12-02,C1222,P1001,Wireless Mouse,Electronics,2,842.51,0.15,Mumbai,Maharashtra,Mobile App,Debit Card,Delivered
+ORD100932,2024-02-11,C1303,P1004,Notebook Set,Stationery,1,281.05,0.2,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD100933,2023-08-20,C1079,P1001,Wireless Mouse,Electronics,1,844.59,0.0,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100934,2024-07-19,C1307,P1008,LED Desk Lamp,Home Office,2,1360.94,0.0,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD100935,2023-03-28,C1028,P1005,Gel Pen Pack,Stationery,1,154.79,0.05,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD100936,2024-05-24,C1038,P1005,Gel Pen Pack,Stationery,1,151.46,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100937,2024-11-24,C1306,P1001,Wireless Mouse,Electronics,4,828.06,0.0,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD100938,2023-08-08,C1255,P1001,Wireless Mouse,Electronics,1,755.84,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100939,2024-12-12,C1393,P1008,LED Desk Lamp,Home Office,1,1318.01,0.0,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD100940,2025-01-03,C1319,P1012,Monitor,Electronics,1,14120.48,0.15,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD100941,2025-06-15,C1031,P1002,USB-C Hub,Electronics,1,2108.44,0.1,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD100942,2024-12-13,C1208,P1008,LED Desk Lamp,Home Office,2,1377.95,0.1,Hyderabad,Telangana,Retail Store,Cash on Delivery,Delivered
+ORD100943,2023-11-25,C1229,P1009,Water Bottle,Lifestyle,1,531.57,0.0,Mumbai,Maharashtra,Marketplace,Debit Card,Delivered
+ORD100944,2025-01-21,C1069,P1002,USB-C Hub,Electronics,2,1931.21,0.0,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD100945,2025-02-15,C1085,P1006,Desk Organizer,Home Office,3,580.6,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD100946,2024-05-04,C1328,P1005,Gel Pen Pack,Stationery,4,144.15,0.25,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD100947,2025-03-04,C1400,P1004,Notebook Set,Stationery,2,322.34,0.1,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD100948,2024-08-02,C1229,P1005,Gel Pen Pack,Stationery,2,157.17,0.15,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD100949,2023-07-17,C1450,P1006,Desk Organizer,Home Office,2,638.91,0.0,Mumbai,Maharashtra,Website,Credit Card,Delivered
+ORD100950,2024-01-01,C1265,P1001,Wireless Mouse,Electronics,1,851.45,0.05,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100951,2023-07-22,C1316,P1001,Wireless Mouse,Electronics,1,818.69,0.0,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100952,2024-06-08,C1261,P1011,Office Backpack,Lifestyle,1,2363.19,0.0,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100953,2023-01-27,C1448,P1008,LED Desk Lamp,Home Office,1,1209.5,0.0,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD100954,2025-08-16,C1079,P1007,Ergonomic Chair,Furniture,2,9251.36,0.1,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100955,2025-01-25,C1266,P1006,Desk Organizer,Home Office,2,623.08,0.15,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100956,2024-09-14,C1176,P1012,Monitor,Electronics,1,11986.07,0.0,Mumbai,Maharashtra,Marketplace,UPI,Returned
+ORD100957,2023-07-27,C1250,P1004,Notebook Set,Stationery,4,306.97,0.1,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD100958,2024-05-24,C1201,P1010,Laptop Stand,Electronics,1,1693.91,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD100959,2025-01-03,C1279,P1012,Monitor,Electronics,2,14399.29,0.05,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100960,2024-01-05,C1368,P1010,Laptop Stand,Electronics,1,1639.22,0.0,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100961,2025-06-26,C1091,P1007,Ergonomic Chair,Furniture,1,9789.9,0.2,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD100962,2025-01-31,C1394,P1012,Monitor,Electronics,1,14597.13,0.0,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD100963,2024-05-07,C1214,P1011,Office Backpack,Lifestyle,1,2029.9,0.0,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD100964,2025-01-07,C1308,P1006,Desk Organizer,Home Office,2,586.62,0.0,Kolkata,West Bengal,Retail Store,UPI,Returned
+ORD100965,2023-03-12,C1256,P1003,Bluetooth Speaker,Electronics,2,2702.51,0.15,Delhi,Delhi,Website,Debit Card,Delivered
+ORD100966,2023-01-14,C1450,P1011,Office Backpack,Lifestyle,1,2334.23,0.0,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD100967,2023-02-14,C1031,P1008,LED Desk Lamp,Home Office,1,1392.17,0.15,Delhi,Delhi,Marketplace,Net Banking,Delivered
+ORD100968,2024-12-29,C1320,P1012,Monitor,Electronics,1,13033.41,0.15,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD100969,2024-05-26,C1110,P1006,Desk Organizer,Home Office,2,650.75,0.15,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD100970,2025-03-29,C1323,P1001,Wireless Mouse,Electronics,1,847.65,0.0,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD100971,2023-12-21,C1195,P1004,Notebook Set,Stationery,1,301.11,0.0,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD100972,2023-03-18,C1327,P1008,LED Desk Lamp,Home Office,1,1354.87,0.0,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD100973,2024-12-13,C1404,P1001,Wireless Mouse,Electronics,1,778.56,0.0,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD100974,2024-04-09,C1232,P1006,Desk Organizer,Home Office,3,644.28,0.05,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100975,2023-03-26,C1070,P1009,Water Bottle,Lifestyle,2,476.13,0.15,Hyderabad,Telangana,Marketplace,Credit Card,Delivered
+ORD100976,2023-11-10,C1276,P1006,Desk Organizer,Home Office,2,587.67,0.1,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Returned
+ORD100977,2025-10-30,C1082,P1009,Water Bottle,Lifestyle,1,546.1,0.15,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100978,2023-10-31,C1408,P1009,Water Bottle,Lifestyle,1,482.25,0.1,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD100979,2023-04-11,C1268,P1011,Office Backpack,Lifestyle,1,2350.19,0.0,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD100980,2025-06-08,C1283,P1005,Gel Pen Pack,Stationery,1,162.13,0.0,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD100981,2025-09-26,C1116,P1010,Laptop Stand,Electronics,1,1533.88,0.0,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD100982,2024-05-19,C1108,P1006,Desk Organizer,Home Office,1,569.44,0.1,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD100983,2024-10-24,C1103,P1008,LED Desk Lamp,Home Office,1,1236.32,0.0,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD100984,2025-01-18,C1361,P1003,Bluetooth Speaker,Electronics,1,2527.18,0.2,Hyderabad,Telangana,Marketplace,Cash on Delivery,Delivered
+ORD100985,2023-02-19,C1375,P1005,Gel Pen Pack,Stationery,2,151.45,0.15,Delhi,Delhi,Marketplace,Cash on Delivery,Cancelled
+ORD100986,2025-06-24,C1124,P1003,Bluetooth Speaker,Electronics,1,2524.38,0.0,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD100987,2024-02-13,C1142,P1011,Office Backpack,Lifestyle,3,2064.06,0.1,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD100988,2023-08-19,C1059,P1005,Gel Pen Pack,Stationery,1,151.13,0.0,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD100989,2024-08-12,C1380,P1012,Monitor,Electronics,2,13418.57,0.1,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD100990,2024-09-16,C1318,P1004,Notebook Set,Stationery,1,304.77,0.0,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD100991,2024-03-09,C1372,P1005,Gel Pen Pack,Stationery,1,145.37,0.25,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD100992,2023-10-17,C1450,P1002,USB-C Hub,Electronics,1,1800.52,0.1,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD100993,2023-03-31,C1447,P1003,Bluetooth Speaker,Electronics,3,2417.44,0.1,Delhi,Delhi,Marketplace,Credit Card,Delivered
+ORD100994,2024-07-09,C1405,P1001,Wireless Mouse,Electronics,1,823.99,0.1,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD100995,2023-05-17,C1108,P1010,Laptop Stand,Electronics,4,1595.9,0.1,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD100996,2023-08-09,C1148,P1010,Laptop Stand,Electronics,1,1706.06,0.05,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD100997,2024-04-18,C1350,P1001,Wireless Mouse,Electronics,-1,807.56,0.1,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD100998,2025-12-24,C1008,P1011,Office Backpack,Lifestyle,5,2145.69,0.0,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD100999,2023-02-14,C1161,P1006,Desk Organizer,Home Office,1,638.27,0.15,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD101000,2024-11-14,C1004,P1001,Wireless Mouse,Electronics,1,819.03,0.1,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD101001,2024-12-11,C1059,P1005,Gel Pen Pack,Stationery,1,141.83,0.15,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD101002,2025-10-23,C1439,P1004,Notebook Set,Stationery,2,313.34,0.2,Delhi,Delhi,Website,Net Banking,Delivered
+ORD101003,2023-03-02,C1055,P1001,Wireless Mouse,Electronics,1,793.65,0.05,Delhi,Delhi,Marketplace,Net Banking,Delivered
+ORD101004,2023-10-09,C1432,P1010,Laptop Stand,Electronics,1,1494.12,0.05,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101005,2024-04-10,C1349,P1011,Office Backpack,Lifestyle,2,2231.63,0.15,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD101006,2024-10-01,C1288,P1009,Water Bottle,Lifestyle,1,505.8,0.15,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101007,2023-10-11,C1143,P1008,LED Desk Lamp,Home Office,1,1306.19,0.0,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD101008,2023-10-04,C1415,P1008,LED Desk Lamp,Home Office,3,1226.31,0.05,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD101009,2023-11-20,C1022,P1001,Wireless Mouse,Electronics,5,802.11,0.05,Hyderabad,Telangana,Website,UPI,Delivered
+ORD101010,2024-01-13,C1208,P1004,Notebook Set,Stationery,5,287.9,0.15,Hyderabad,Telangana,Marketplace,Debit Card,Delivered
+ORD101011,2025-04-27,C1128,P1001,Wireless Mouse,Electronics,2,764.71,0.1,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101012,2023-11-08,C1179,P1003,Bluetooth Speaker,Electronics,2,2626.09,0.15,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD101013,2024-06-30,C1012,P1009,Water Bottle,Lifestyle,5,479.66,0.0,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD101014,2025-01-05,C1096,P1010,Laptop Stand,Electronics,1,1716.68,0.15,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101015,2025-08-18,C1017,P1007,Ergonomic Chair,Furniture,2,9093.03,0.2,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD101016,2025-08-28,C1139,P1002,USB-C Hub,Electronics,1,2101.9,0.0,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD101017,2025-04-16,C1370,P1001,Wireless Mouse,Electronics,1,775.12,0.1,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD101018,2024-02-20,C1244,P1010,Laptop Stand,Electronics,3,1737.82,0.1,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD101019,2025-09-30,C1347,P1006,Desk Organizer,Home Office,3,641.3,0.2,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD101020,2025-04-09,C1182,P1003,Bluetooth Speaker,Electronics,1,2713.5,0.0,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD101021,2025-12-11,C1096,P1012,Monitor,Electronics,1,12855.29,0.05,Ahmedabad,Gujarat,Website,UPI,Delivered
+ORD101022,2024-05-18,C1166,P1005,Gel Pen Pack,Stationery,2,160.46,0.25,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD101023,2023-04-11,C1294,P1009,Water Bottle,Lifestyle,1,531.79,0.0,Bengaluru,Karnataka,Mobile App,Debit Card,Delivered
+ORD101024,2024-08-08,C1034,P1001,Wireless Mouse,Electronics,4,852.46,0.05,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD101025,2023-04-22,C1304,P1005,Gel Pen Pack,Stationery,1,144.34,0.0,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101026,2023-07-05,C1292,P1006,Desk Organizer,Home Office,1,603.24,0.0,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD101027,2023-10-05,C1423,P1008,LED Desk Lamp,Home Office,3,1219.21,0.1,Jaipur,Rajasthan,Retail Store,UPI,Delivered
+ORD101028,2024-01-02,C1165,P1011,Office Backpack,Lifestyle,1,2096.03,0.0,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD101029,2024-05-27,C1123,P1005,Gel Pen Pack,Stationery,1,143.95,0.1,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101030,2023-07-06,C1441,P1001,Wireless Mouse,Electronics,1,828.77,0.0,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD101031,2025-12-08,C1100,P1003,Bluetooth Speaker,Electronics,1,2600.36,0.0,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD101032,2023-03-31,C1338,P1004,Notebook Set,Stationery,5,321.76,0.0,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD101033,2023-11-29,C1140,P1005,Gel Pen Pack,Stationery,3,157.41,0.0,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD101034,2025-05-09,C1050,P1002,USB-C Hub,Electronics,1,2109.09,0.2,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD101035,2024-08-14,C1049,P1007,Ergonomic Chair,Furniture,1,9328.74,0.2,Pune,Maharashtra,Website,Credit Card,Delivered
+ORD101036,2023-01-08,C1289,P1005,Gel Pen Pack,Stationery,1,151.75,0.05,Delhi,Delhi,Website,Net Banking,Delivered
+ORD101037,2023-01-12,C1365,P1004,Notebook Set,Stationery,3,288.99,0.0,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD101038,2025-07-18,C1306,P1004,Notebook Set,Stationery,1,300.96,0.1,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD101039,2023-01-14,C1065,P1001,Wireless Mouse,Electronics,1,745.61,0.2,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD101040,2024-03-01,C1349,P1012,Monitor,Electronics,1,13638.71,0.15,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD101041,2023-03-17,C1449,P1004,Notebook Set,Stationery,1,298.11,0.2,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101042,2024-09-03,C1358,P1009,Water Bottle,Lifestyle,1,479.83,0.15,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD101043,2024-01-01,C1385,P1005,Gel Pen Pack,Stationery,2,147.22,0.1,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD101044,2023-12-30,C1344,P1006,Desk Organizer,Home Office,2,650.62,0.1,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD101045,2024-09-04,C1155,P1005,Gel Pen Pack,Stationery,1,144.6,0.0,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD101046,2025-05-25,C1209,P1005,Gel Pen Pack,Stationery,1,151.68,0.15,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101047,2024-07-16,C1111,P1008,LED Desk Lamp,Home Office,3,1320.27,0.0,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101048,2023-04-30,C1189,P1004,Notebook Set,Stationery,2,300.83,0.0,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101049,2024-08-11,C1202,P1006,Desk Organizer,Home Office,1,613.45,0.0,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD101050,2024-12-25,C1349,P1004,Notebook Set,Stationery,2,288.26,0.1,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101051,2025-10-05,C1185,P1004,Notebook Set,Stationery,3,304.23,0.0,Pune,Maharashtra,Marketplace,Credit Card,Delivered
+ORD101052,2023-01-04,C1157,P1011,Office Backpack,Lifestyle,2,2277.96,0.0,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD101053,2024-02-29,C1060,P1008,LED Desk Lamp,Home Office,1,1244.91,0.15,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD101054,2024-03-10,C1263,P1004,Notebook Set,Stationery,1,276.93,0.1,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD101055,2023-05-19,C1278,P1011,Office Backpack,Lifestyle,1,2096.6,0.1,Delhi,Delhi,Mobile App,Debit Card,Delivered
+ORD101056,2023-01-13,C1214,P1004,Notebook Set,Stationery,1,322.05,0.1,Mumbai,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD101057,2023-03-01,C1187,P1012,Monitor,Electronics,1,14018.89,0.1,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD101058,2025-09-08,C1305,P1006,Desk Organizer,Home Office,3,626.85,0.1,Kolkata,West Bengal,Website,Net Banking,Delivered
+ORD101059,2023-11-15,C1123,P1008,LED Desk Lamp,Home Office,1,1242.41,0.15,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101060,2023-04-25,C1428,P1008,LED Desk Lamp,Home Office,1,1196.05,0.1,Delhi,Delhi,Mobile App,UPI,Delivered
+ORD101061,2024-03-02,C1003,P1001,Wireless Mouse,Electronics,1,746.21,0.0,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD101062,2024-07-28,C1099,P1008,LED Desk Lamp,Home Office,1,1415.39,0.2,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Cancelled
+ORD101063,2023-12-06,C1264,P1012,Monitor,Electronics,3,12663.79,0.15,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD101064,2024-10-06,C1340,P1002,USB-C Hub,Electronics,2,1905.62,0.0,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD101065,2024-05-01,C1124,P1012,Monitor,Electronics,1,12360.06,0.0,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101066,2024-03-18,C1071,P1006,Desk Organizer,Home Office,3,628.27,0.1,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD101067,2024-02-18,C1094,P1001,Wireless Mouse,Electronics,1,845.75,0.15,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101068,2025-10-21,C1081,P1005,Gel Pen Pack,Stationery,2,154.06,0.1,Pune,Maharashtra,Marketplace,Net Banking,Delivered
+ORD101069,2025-12-08,C1233,P1009,Water Bottle,Lifestyle,1,560.42,0.05,Delhi,Delhi,Mobile App,UPI,Delivered
+ORD101070,2025-11-23,C1407,P1001,Wireless Mouse,Electronics,1,835.2,0.1,Pune,Maharashtra,Marketplace,Net Banking,Delivered
+ORD101071,2025-03-04,C1249,P1009,Water Bottle,Lifestyle,1,536.1,0.15,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD101072,2023-06-28,C1379,P1005,Gel Pen Pack,Stationery,1,141.61,0.05,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD101073,2025-12-02,C1355,P1011,Office Backpack,Lifestyle,2,2220.39,0.15,Delhi,Delhi,Website,Debit Card,Delivered
+ORD101074,2024-03-05,C1182,P1009,Water Bottle,Lifestyle,1,529.2,0.0,Hyderabad,Telangana,Marketplace,Debit Card,Delivered
+ORD101075,2025-12-26,C1005,P1002,USB-C Hub,Electronics,1,2112.05,0.05,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101076,2023-11-02,C1267,P1004,Notebook Set,Stationery,1,295.15,0.05,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD101077,2025-11-18,C1063,P1008,LED Desk Lamp,Home Office,1,1420.97,0.0,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD101078,2024-10-14,C1059,P1009,Water Bottle,Lifestyle,2,469.71,,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD101079,2024-05-16,C1428,P1005,Gel Pen Pack,Stationery,2,137.67,0.0,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD101080,2025-06-27,C1387,P1006,Desk Organizer,Home Office,3,601.87,0.15,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD101081,2023-08-05,C1298,P1001,Wireless Mouse,Electronics,1,767.39,0.1,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD101082,2024-01-02,C1110,P1008,LED Desk Lamp,Home Office,1,1249.08,0.15,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD101083,2025-12-28,C1264,P1006,Desk Organizer,Home Office,1,596.63,0.15,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD101084,2025-08-17,C1343,P1005,Gel Pen Pack,Stationery,1,146.5,0.1,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101085,2025-08-21,C1272,P1004,Notebook Set,Stationery,3,330.77,0.0,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD101086,2024-06-12,C1447,P1009,Water Bottle,Lifestyle,1,543.89,0.0,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101087,2024-10-27,C1127,P1005,Gel Pen Pack,Stationery,1,154.61,0.1,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD101088,2023-08-20,C1321,P1003,Bluetooth Speaker,Electronics,1,2676.66,0.15,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101089,2024-08-01,C1225,P1004,Notebook Set,Stationery,1,319.73,0.15,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD101090,2023-08-08,C1205,P1007,Ergonomic Chair,Furniture,3,8465.25,0.15,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD101091,2025-08-02,C1098,P1002,USB-C Hub,Electronics,1,1947.03,0.2,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD101092,2023-11-22,C1264,P1004,Notebook Set,Stationery,2,313.14,0.1,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101093,2025-06-01,C1415,P1005,Gel Pen Pack,Stationery,1,146.81,0.0,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101094,2023-12-21,C1296,P1011,Office Backpack,Lifestyle,1,2150.69,0.0,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101095,2025-08-06,C1219,P1009,Water Bottle,Lifestyle,1,544.29,0.1,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD101096,2024-09-22,C1352,P1010,Laptop Stand,Electronics,1,1642.61,0.0,Jaipur,Rajasthan,Website,Cash on Delivery,Delivered
+ORD101097,2025-02-15,C1164,P1009,Water Bottle,Lifestyle,2,494.02,0.2,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD101098,2023-07-05,C1250,P1001,Wireless Mouse,Electronics,2,868.71,0.1,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD101099,2023-10-28,C1361,P1008,LED Desk Lamp,Home Office,2,1339.85,0.15,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101100,2025-07-04,C1282,P1003,Bluetooth Speaker,Electronics,2,2496.16,0.25,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD101101,2024-09-05,C1103,P1003,Bluetooth Speaker,Electronics,3,2402.31,0.05,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD101102,2023-07-02,C1257,P1009,Water Bottle,Lifestyle,1,472.57,0.1,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD101103,2023-05-08,C1110,P1003,Bluetooth Speaker,Electronics,1,2456.46,0.05,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD101104,2025-01-05,C1076,P1001,Wireless Mouse,Electronics,2,853.01,0.0,Mumbai,Maharashtra,Mobile App,Credit Card,Delivered
+ORD101105,2025-06-03,C1143,P1011,Office Backpack,Lifestyle,2,2264.17,0.1,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD101106,2025-02-20,C1346,P1003,Bluetooth Speaker,Electronics,2,2794.88,0.2,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD101107,2023-10-12,C1101,P1004,Notebook Set,Stationery,1,290.7,0.05,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD101108,2025-05-04,C1205,P1008,LED Desk Lamp,Home Office,1,1454.03,0.0,Pune,Maharashtra,Mobile App,Credit Card,Cancelled
+ORD101109,2023-10-03,C1004,P1011,Office Backpack,Lifestyle,2,2155.92,0.1,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD101110,2025-09-23,C1255,P1003,Bluetooth Speaker,Electronics,1,2599.21,0.05,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD101111,2025-07-22,C1277,P1003,Bluetooth Speaker,Electronics,2,2729.86,0.0,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD101112,2025-07-10,C1379,P1001,Wireless Mouse,Electronics,1,873.83,0.1,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD101113,2023-01-16,C1316,P1005,Gel Pen Pack,Stationery,1,150.55,0.0,Kolkata,West Bengal,Marketplace,Debit Card,Delivered
+ORD101114,2025-04-21,C1354,P1009,Water Bottle,Lifestyle,1,503.14,0.1,Hyderabad,Telangana,Website,Cash on Delivery,Returned
+ORD101115,2025-09-16,C1220,P1008,LED Desk Lamp,Home Office,1,1454.06,0.15,Hyderabad,Telangana,Website,UPI,Delivered
+ORD101116,2023-10-18,C1355,P1011,Office Backpack,Lifestyle,2,2260.47,0.1,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD101117,2023-07-01,C1196,P1004,Notebook Set,Stationery,2,276.38,0.0,Bengaluru,Karnataka,Retail Store,UPI,Delivered
+ORD101118,2024-10-01,C1107,P1011,Office Backpack,Lifestyle,1,2219.26,0.1,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD101119,2025-08-18,C1090,P1011,Office Backpack,Lifestyle,1,2447.89,0.15,Kolkata,West Bengal,Retail Store,Debit Card,Delivered
+ORD101120,2025-05-12,C1190,P1003,Bluetooth Speaker,Electronics,1,2530.77,0.05,Hyderabad,Telangana,Mobile App,UPI,Delivered
+ORD101121,2024-09-14,C1111,P1012,Monitor,Electronics,1,13794.64,0.0,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD101122,2023-12-13,C1348,P1012,Monitor,Electronics,1,12890.94,0.1,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD101123,2023-02-25,C1055,P1010,Laptop Stand,Electronics,1,1620.39,0.1,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD101124,2023-06-07,C1409,P1008,LED Desk Lamp,Home Office,1,1232.32,0.0,Delhi,Delhi,Mobile App,Debit Card,Delivered
+ORD101125,2024-07-17,C1136,P1002,USB-C Hub,Electronics,3,1912.68,0.1,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD101126,2023-12-24,C1186,P1004,Notebook Set,Stationery,1,300.66,0.05,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101127,2024-06-19,C1155,P1005,Gel Pen Pack,Stationery,1,162.01,0.0,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD101128,2023-03-09,C1379,P1006,Desk Organizer,Home Office,1,586.72,0.15,Hyderabad,Telangana,Website,Cash on Delivery,Returned
+ORD101129,2023-11-12,C1079,P1007,Ergonomic Chair,Furniture,1,8357.99,0.2,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101130,2025-06-20,C1374,P1005,Gel Pen Pack,Stationery,2,153.54,0.2,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD101131,2023-04-22,C1131,P1005,Gel Pen Pack,Stationery,2,145.79,0.05,Delhi,Delhi,Website,Net Banking,Delivered
+ORD101132,2025-03-27,,P1012,Monitor,Electronics,1,14021.79,0.1,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD101133,2024-04-23,C1373,P1011,Office Backpack,Lifestyle,1,2133.19,0.0,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD101134,2025-12-22,C1371,P1008,LED Desk Lamp,Home Office,3,1346.35,0.0,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD101135,2025-02-21,C1130,P1006,Desk Organizer,Home Office,3,591.31,0.1,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD101136,2024-12-25,C1082,P1009,Water Bottle,Lifestyle,4,468.98,0.2,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101137,2023-07-21,C1271,P1010,Laptop Stand,Electronics,1,1608.67,0.1,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD101138,2024-02-04,C1263,P1004,Notebook Set,Stationery,1,303.25,0.1,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101139,2023-01-18,C1019,P1005,Gel Pen Pack,Stationery,1,160.3,0.25,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101140,2023-08-01,C1162,P1004,Notebook Set,Stationery,1,286.24,0.1,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD101141,2024-05-30,C1394,P1006,Desk Organizer,Home Office,1,555.14,0.0,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD101142,2023-04-27,C1336,P1011,Office Backpack,Lifestyle,2,2233.53,0.05,Bengaluru,Karnataka,Website,UPI,Delivered
+ORD101143,2023-06-26,C1419,P1004,Notebook Set,Stationery,3,320.62,0.1,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101144,2024-01-14,C1443,P1011,Office Backpack,Lifestyle,1,2269.22,0.0,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD101145,2023-06-05,C1214,P1003,Bluetooth Speaker,Electronics,1,2300.66,0.05,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD101146,2024-06-11,C1219,P1007,Ergonomic Chair,Furniture,1,8740.74,0.25,Pune,Maharashtra,Website,UPI,Delivered
+ORD101147,2025-02-22,C1423,P1002,USB-C Hub,Electronics,1,-99.0,0.15,Jaipur,Rajasthan,Mobile App,Debit Card,Cancelled
+ORD101148,2024-06-26,C1289,P1004,Notebook Set,Stationery,2,281.39,0.05,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101149,2025-03-15,C1323,P1008,LED Desk Lamp,Home Office,3,1253.65,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101150,2025-06-02,C1438,P1001,Wireless Mouse,Electronics,1,765.09,0.1,Bengaluru,Karnataka,Website,Debit Card,Delivered
+ORD101151,2023-07-31,C1238,P1008,LED Desk Lamp,Home Office,1,1195.79,0.1,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD101152,2025-07-02,C1204,P1001,Wireless Mouse,Electronics,3,767.69,0.1,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD101153,2023-03-19,C1403,P1007,Ergonomic Chair,Furniture,2,9321.83,0.0,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101154,2025-03-12,C1121,P1009,Water Bottle,Lifestyle,3,563.39,0.1,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD101155,2023-05-24,C1156,P1009,Water Bottle,Lifestyle,1,480.91,0.0,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD101156,2023-09-06,C1443,P1002,USB-C Hub,Electronics,1,1802.0,0.0,hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD101157,2023-04-24,C1024,P1012,Monitor,Electronics,1,12120.8,0.1,Mumbai,Maharashtra,Mobile App,Debit Card,Delivered
+ORD101158,2023-06-14,C1260,P1003,Bluetooth Speaker,Electronics,4,2686.09,0.05,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD101159,2023-03-22,C1202,P1005,Gel Pen Pack,Stationery,1,144.5,0.0,Jaipur,Rajasthan,Marketplace,Net Banking,Delivered
+ORD101160,2023-08-07,C1193,P1001,Wireless Mouse,Electronics,1,748.5,0.0,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD101161,2024-01-24,C1217,P1005,Gel Pen Pack,Stationery,1,-99.0,0.0,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101162,2024-05-03,C1148,P1003,Bluetooth Speaker,Electronics,2,2687.99,0.05,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD101163,2024-09-22,C1183,P1009,Water Bottle,Lifestyle,2,474.7,0.0,Kolkata,West Bengal,Retail Store,UPI,Returned
+ORD101164,2023-03-17,C1050,P1005,Gel Pen Pack,Stationery,1,140.59,0.05,Hyderabad,Telangana,Website,UPI,Delivered
+ORD101165,2025-04-10,C1138,P1003,Bluetooth Speaker,Electronics,1,2679.58,0.1,Mumbai,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD101166,2025-07-27,C1295,P1003,Bluetooth Speaker,Electronics,1,2754.17,0.1,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD101167,2023-10-17,C1028,P1003,Bluetooth Speaker,Electronics,2,2618.44,0.2,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD101168,2023-04-04,C1446,P1008,LED Desk Lamp,Home Office,1,1289.29,0.0,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD101169,2024-09-21,C1293,P1007,Ergonomic Chair,Furniture,1,9633.99,0.05,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101170,2023-05-11,C1064,P1001,Wireless Mouse,Electronics,1,853.23,0.2,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101171,2024-03-27,C1221,P1012,Monitor,Electronics,3,13782.7,0.2,Mumbai,Maharashtra,Marketplace,Net Banking,Delivered
+ORD101172,2024-10-26,C1335,P1005,Gel Pen Pack,Stationery,2,151.7,0.15,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD101173,2023-04-04,C1081,P1009,Water Bottle,Lifestyle,4,484.75,0.25,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD101174,2023-10-17,C1274,P1005,Gel Pen Pack,Stationery,1,139.92,0.15,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD101175,2023-12-04,C1250,P1004,Notebook Set,Stationery,2,291.96,0.1,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD101176,2023-10-01,C1127,P1011,Office Backpack,Lifestyle,2,2308.09,0.1,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD101177,2025-09-24,C1447,P1003,Bluetooth Speaker,Electronics,1,2431.94,0.1,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD101178,2024-08-04,C1162,P1008,LED Desk Lamp,Home Office,2,1269.16,0.0,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD101179,2023-10-21,,P1012,Monitor,Electronics,1,12365.54,0.05,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD101180,2023-03-19,C1313,P1005,Gel Pen Pack,Stationery,1,145.87,0.1,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD101181,2024-09-08,C1156,P1005,Gel Pen Pack,Stationery,1,160.33,0.05,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101182,2024-01-29,C1158,P1004,Notebook Set,Stationery,1,307.32,0.2,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101183,2025-11-05,C1019,P1002,USB-C Hub,Electronics,1,2019.17,0.2,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD101184,2024-07-20,C1128,P1005,Gel Pen Pack,Stationery,1,156.48,0.15,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD101185,2025-08-29,C1112,P1002,USB-C Hub,Electronics,1,2077.37,0.15,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD101186,2023-04-21,C1314,P1008,LED Desk Lamp,Home Office,3,1256.28,0.05,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD101187,2024-11-15,C1020,P1011,Office Backpack,Lifestyle,2,2134.53,0.0,Kolkata,West Bengal,Website,UPI,Delivered
+ORD101188,2023-12-27,C1215,P1009,Water Bottle,Lifestyle,2,515.59,0.0,Pune,Maharashtra,Website,UPI,Delivered
+ORD101189,2023-05-26,C1411,P1009,Water Bottle,Lifestyle,2,514.3,0.2,Bengaluru,Karnataka,Retail Store,Debit Card,Delivered
+ORD101190,2025-05-08,C1130,P1012,Monitor,Electronics,2,13395.04,0.05,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD101191,2024-10-29,C1369,P1008,LED Desk Lamp,Home Office,1,1226.48,0.2,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD101192,2024-02-14,C1020,P1011,Office Backpack,Lifestyle,4,2183.02,0.15,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD101193,2025-09-19,C1373,P1004,Notebook Set,Stationery,1,338.79,0.0,Ahmedabad,Gujarat,Retail Store,Cash on Delivery,Delivered
+ORD101194,2025-07-20,C1332,P1008,LED Desk Lamp,Home Office,2,1399.47,0.0,pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101195,2024-02-02,C1325,P1003,Bluetooth Speaker,Electronics,3,2392.17,0.15,Hyderabad,Telangana,Mobile App,Credit Card,Delivered
+ORD101196,2023-03-07,C1298,P1010,Laptop Stand,Electronics,1,1535.77,0.15,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD101197,2025-07-28,C1039,P1002,USB-C Hub,Electronics,1,2129.26,0.1,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD101198,2024-08-27,C1278,P1005,Gel Pen Pack,Stationery,4,148.83,0.1,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD101199,2024-04-15,C1186,P1004,Notebook Set,Stationery,1,310.04,0.0,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101200,2024-03-19,C1055,P1009,Water Bottle,Lifestyle,1,491.67,0.0,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD101201,2024-05-20,C1249,P1009,Water Bottle,Lifestyle,1,472.94,0.0,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD101202,2023-11-02,C1268,P1010,Laptop Stand,Electronics,1,1681.67,0.05,Ahmedabad,Gujarat,Retail Store,UPI,Returned
+ORD101203,2025-08-21,C1085,P1009,Water Bottle,Lifestyle,1,480.2,0.25,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD101204,2023-07-20,C1344,P1002,USB-C Hub,Electronics,1,1871.3,0.1,Kolkata,West Bengal,Retail Store,Cash on Delivery,Delivered
+ORD101205,2023-01-26,C1354,P1001,Wireless Mouse,Electronics,4,822.82,0.25,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD101206,2024-05-04,C1006,P1010,Laptop Stand,Electronics,3,1634.45,0.05,Mumbai,Maharashtra,Website,Debit Card,Delivered
+ORD101207,2023-11-28,C1200,P1008,LED Desk Lamp,Home Office,1,1356.66,0.0,Kolkata,West Bengal,Website,Net Banking,Returned
+ORD101208,2023-10-11,C1034,P1010,Laptop Stand,Electronics,1,1727.67,0.0,Jaipur,Rajasthan,Marketplace,Debit Card,Delivered
+ORD101209,2025-08-08,C1059,P1010,Laptop Stand,Electronics,2,1738.78,0.25,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD101210,2025-12-23,C1299,P1004,Notebook Set,Stationery,3,304.69,0.1,Ahmedabad,Gujarat,Mobile App,Debit Card,Delivered
+ORD101211,2024-02-29,C1201,P1001,Wireless Mouse,Electronics,2,836.61,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101212,2025-11-20,C1195,P1012,Monitor,Electronics,1,12847.09,0.1,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD101213,2025-08-11,C1087,P1001,Wireless Mouse,Electronics,2,780.12,0.0,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD101214,2023-05-18,C1209,P1009,Water Bottle,Lifestyle,1,527.77,0.15,Bengaluru,Karnataka,Marketplace,Credit Card,Cancelled
+ORD101215,2023-08-21,C1064,P1006,Desk Organizer,Home Office,1,615.49,0.0,Kolkata,West Bengal,Marketplace,Credit Card,Delivered
+ORD101216,2024-10-18,C1415,P1012,Monitor,Electronics,1,13468.16,0.0,Hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD101217,2024-07-21,C1095,P1005,Gel Pen Pack,Stationery,2,162.38,0.0,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD101218,2025-09-22,C1118,P1001,Wireless Mouse,Electronics,1,816.21,0.2,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101219,2024-08-21,C1411,P1011,Office Backpack,Lifestyle,1,2177.14,0.15,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD101220,2024-01-21,C1208,P1004,Notebook Set,Stationery,2,287.13,0.05,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD101221,2024-08-13,C1388,P1003,Bluetooth Speaker,Electronics,4,2429.19,0.0,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD101222,2023-10-31,C1210,P1003,Bluetooth Speaker,ELECTRONICS,1,2514.4,0.0,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD101223,2023-02-16,C1282,P1011,Office Backpack,Lifestyle,1,2086.07,0.05,Delhi,Delhi,Retail Store,Cash on Delivery,Returned
+ORD101224,2023-09-28,C1040,P1010,Laptop Stand,Electronics,2,1498.57,0.1,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD101225,2024-08-20,C1211,P1004,Notebook Set,Stationery,1,324.95,0.0,Bengaluru,Karnataka,Website,Credit Card,Delivered
+ORD101226,2025-11-30,C1129,P1002,USB-C Hub,Electronics,1,2008.41,0.1,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101227,2025-09-22,C1113,P1005,Gel Pen Pack,Stationery,2,149.99,0.2,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101228,2024-09-19,C1329,P1004,Notebook Set,Stationery,1,323.6,0.15,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD101229,2024-08-13,C1155,P1011,Office Backpack,Lifestyle,1,2152.71,0.15,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD101230,2023-12-07,C1335,P1009,Water Bottle,Lifestyle,1,510.54,0.05,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD101231,2023-11-11,C1001,P1012,Monitor,Electronics,1,13281.51,0.1,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD101232,2023-09-17,C1346,P1007,Ergonomic Chair,Furniture,1,9765.43,0.1,Kolkata,West Bengal,Mobile App,Credit Card,Delivered
+ORD101233,2023-03-13,C1302,P1005,Gel Pen Pack,Stationery,1,138.71,0.05,Hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD101234,2023-11-29,C1252,P1002,USB-C Hub,Electronics,2,2030.85,0.05,Delhi,Delhi,Website,Net Banking,Delivered
+ORD101235,2025-10-19,C1150,P1009,Water Bottle,Lifestyle,1,559.44,0.05,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101236,2023-01-09,C1278,P1001,Wireless Mouse,Electronics,1,861.77,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD101237,2023-10-29,C1299,P1002,USB-C Hub,Electronics,1,2030.92,0.0,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101238,2023-03-24,C1002,P1001,Wireless Mouse,Electronics,1,852.26,0.05,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD101239,2024-03-27,C1058,P1012,Monitor,Electronics,2,13838.96,0.15,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD101240,2024-02-04,C1333,P1009,Water Bottle,Lifestyle,1,486.59,0.15,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD101241,2025-07-01,C1323,P1012,Monitor,Electronics,1,13114.55,0.1,Mumbai,Maharashtra,Retail Store,Debit Card,Delivered
+ORD101242,2025-11-13,C1259,P1008,LED Desk Lamp,Home Office,1,1424.58,0.1,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD101243,2025-01-27,C1005,P1007,Ergonomic Chair,Furniture,2,10066.44,0.05,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101244,2024-12-20,C1131,P1007,Ergonomic Chair,Furniture,1,9092.42,0.0,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD101245,2024-03-17,C1404,P1011,Office Backpack,Lifestyle,1,2231.14,0.0,Kolkata,West Bengal,Retail Store,Debit Card,Delivered
+ORD101246,2023-12-02,C1204,P1008,LED Desk Lamp,Home Office,1,1351.66,0.0,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD101247,2023-06-26,C1320,P1004,Notebook Set,Stationery,2,306.96,0.0,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD101248,2024-11-17,C1285,P1005,Gel Pen Pack,Stationery,3,152.42,0.0,Mumbai,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101249,2024-07-13,C1200,P1004,Notebook Set,Stationery,2,306.32,0.0,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD101250,2023-10-08,C1289,P1008,LED Desk Lamp,Home Office,2,1364.84,0.0,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD101251,2025-10-01,C1137,P1005,Gel Pen Pack,Stationery,1,153.65,0.0,Ahmedabad,Gujarat,Mobile App,Debit Card,Delivered
+ORD101252,2025-10-08,C1221,P1001,Wireless Mouse,Electronics,2,801.58,0.15,Kolkata,West Bengal,Marketplace,UPI,Delivered
+ORD101253,2023-11-12,C1022,P1007,Ergonomic Chair,Furniture,1,9498.31,0.15,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD101254,2023-09-12,C1371,P1005,Gel Pen Pack,Stationery,2,142.84,0.1,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD101255,2023-02-28,C1037,P1005,Gel Pen Pack,Stationery,1,159.46,0.1,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101256,2025-01-10,C1318,P1008,LED Desk Lamp,Home Office,1,1309.19,0.0,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD101257,2023-09-02,C1411,P1010,Laptop Stand,Electronics,1,1674.06,0.05,Hyderabad,Telangana,Website,Credit Card,Delivered
+ORD101258,2023-04-30,C1447,P1001,Wireless Mouse,Electronics,1,752.74,0.0,pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD101259,2025-01-01,C1314,P1003,Bluetooth Speaker,Electronics,3,2681.4,0.15,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD101260,2024-12-30,C1103,P1008,LED Desk Lamp,Home Office,3,1274.95,0.1,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD101261,2025-11-18,C1233,P1011,Office Backpack,Lifestyle,1,2328.75,0.15,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD101262,2023-12-09,C1337,P1005,Gel Pen Pack,Stationery,3,146.53,0.0,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD101263,2024-07-09,C1263,P1005,Gel Pen Pack,Stationery,1,138.85,0.0,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD101264,2023-10-22,C1109,P1010,Laptop Stand,Electronics,3,1619.4,0.0,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD101265,2025-09-20,,P1011,Office Backpack,Lifestyle,2,2217.18,0.0,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101266,2023-07-29,C1020,P1011,Office Backpack,Lifestyle,3,2043.16,0.15,Bengaluru,Karnataka,Marketplace,Credit Card,Delivered
+ORD101267,2025-12-12,C1044,P1001,Wireless Mouse,Electronics,2,840.25,0.05,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD101268,2023-08-27,C1245,P1011,Office Backpack,Lifestyle,3,2044.62,0.1,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD101269,2025-01-12,C1348,P1007,Ergonomic Chair,Furniture,5,9701.76,0.0,Pune,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101270,2025-12-07,C1439,P1002,USB-C Hub,Electronics,3,2151.61,0.0,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101271,2023-08-31,C1046,P1010,Laptop Stand,Electronics,1,1489.72,0.2,Bengaluru,Karnataka,Marketplace,Credit Card,Delivered
+ORD101272,2024-04-09,C1186,P1010,Laptop Stand,Electronics,3,1647.91,0.05,Delhi,Delhi,Marketplace,UPI,Delivered
+ORD101273,2025-05-20,C1408,P1004,Notebook Set,Stationery,1,332.95,0.15,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD101274,2025-06-02,C1434,P1011,Office Backpack,Lifestyle,1,2474.24,0.1,Ahmedabad,Gujarat,Marketplace,Cash on Delivery,Delivered
+ORD101275,2023-05-02,C1301,P1011,Office Backpack,Lifestyle,1,2292.08,0.1,Kolkata,West Bengal,Website,UPI,Delivered
+ORD101276,2023-05-16,C1002,P1010,Laptop Stand,Electronics,3,1655.94,0.0,Delhi,Delhi,Website,UPI,Delivered
+ORD101277,2024-02-25,C1083,P1012,Monitor,Electronics,4,14096.9,0.0,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD101278,2023-07-05,C1147,P1005,Gel Pen Pack,Stationery,2,156.15,0.0,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD101279,2024-12-22,C1275,P1002,USB-C Hub,Electronics,1,1824.46,0.0,Pune,Maharashtra,Marketplace,UPI,Delivered
+ORD101280,2023-07-22,C1370,P1001,Wireless Mouse,Electronics,3,836.23,0.2,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD101281,2023-12-18,C1212,P1005,Gel Pen Pack,Stationery,1,152.69,0.05,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD101282,2025-08-30,C1442,P1009,Water Bottle,Lifestyle,2,554.72,0.0,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101283,2024-01-06,C1238,P1003,Bluetooth Speaker,Electronics,1,2599.79,0.1,Hyderabad,Telangana,Retail Store,Cash on Delivery,Delivered
+ORD101284,2024-04-11,C1083,P1009,Water Bottle,Lifestyle,1,543.53,0.25,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD101285,2023-09-11,C1210,P1011,Office Backpack,Lifestyle,1,2298.8,0.2,Kolkata,West Bengal,Website,Net Banking,Delivered
+ORD101286,2025-01-09,C1053,P1010,Laptop Stand,Electronics,2,1660.82,0.15,Delhi,Delhi,Website,Net Banking,Delivered
+ORD101287,2023-08-25,C1311,P1002,USB-C Hub,Electronics,1,1996.28,0.1,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101288,2025-06-28,C1401,P1006,Desk Organizer,Home Office,3,642.98,0.05,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD101289,2024-01-22,C1187,P1008,LED Desk Lamp,Home Office,2,1319.71,0.1,Mumbai,Maharashtra,Retail Store,Debit Card,Delivered
+ORD101290,2024-01-03,C1152,P1009,Water Bottle,Lifestyle,2,529.52,0.0,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD101291,2025-06-16,C1340,P1006,Desk Organizer,Home Office,1,645.03,0.15,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD101292,2023-07-28,C1151,P1006,Desk Organizer,Home Office,2,581.65,0.0,Pune,Maharashtra,Website,Credit Card,Delivered
+ORD101293,2024-11-24,C1158,P1005,Gel Pen Pack,Stationery,2,158.5,0.15,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD101294,2025-10-19,C1328,P1002,USB-C Hub,Electronics,1,1870.15,0.15,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD101295,2024-12-30,C1112,P1006,Desk Organizer,Home Office,2,619.4,0.05,Kolkata,West Bengal,Retail Store,Cash on Delivery,Cancelled
+ORD101296,2024-07-25,C1410,P1004,Notebook Set,Stationery,2,303.01,0.0,Pune,Maharashtra,Retail Store,Debit Card,Delivered
+ORD101297,2025-09-29,C1394,P1006,Desk Organizer,Home Office,1,594.14,0.05,Kolkata,West Bengal,Marketplace,Credit Card,Delivered
+ORD101298,2023-03-02,C1048,P1004,Notebook Set,Stationery,1,303.92,0.1,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD101299,2023-02-24,C1401,P1012,Monitor,Electronics,1,12180.3,0.15,Pune,Maharashtra,Retail Store,Debit Card,Delivered
+ORD101300,2023-11-09,C1192,P1012,Monitor,Electronics,3,12011.45,0.0,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD101301,2025-10-05,C1020,P1010,Laptop Stand,Electronics,2,1675.15,0.1,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD101302,2025-10-01,C1313,P1003,Bluetooth Speaker,Electronics,2,2404.59,0.1,Delhi,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD101303,2023-02-06,C1331,P1009,Water Bottle,Lifestyle,1,529.17,0.15,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD101304,2025-02-24,C1260,P1002,USB-C Hub,Electronics,1,2030.87,0.05,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101305,2025-07-30,C1054,P1002,USB-C Hub,Electronics,1,1977.38,0.1,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD101306,2023-12-03,C1097,P1002,USB-C Hub,Electronics,2,1837.8,0.05,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD101307,2025-09-25,C1101,P1010,Laptop Stand,Electronics,4,1669.16,0.0,Mumbai,Maharashtra,Retail Store,Cash on Delivery,Delivered
+ORD101308,2025-08-20,C1053,P1003,Bluetooth Speaker,Electronics,1,2763.39,0.0,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD101309,2024-06-23,C1435,P1007,Ergonomic Chair,Furniture,1,9575.38,0.0,Kolkata,West Bengal,Retail Store,Debit Card,Delivered
+ORD101310,2024-08-05,C1433,P1010,Laptop Stand,Electronics,1,1699.63,0.1,Hyderabad,Telangana,Website,UPI,Delivered
+ORD101311,2023-09-20,C1028,P1010,Laptop Stand,Electronics,1,1508.69,0.15,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD101312,2023-02-25,C1262,P1005,Gel Pen Pack,Stationery,3,153.18,0.1,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101313,2025-01-01,C1132,P1002,USB-C Hub,Electronics,4,1852.15,0.1,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101314,2024-05-22,C1398,P1004,Notebook Set,Stationery,1,305.3,0.15,Bengaluru,Karnataka,Mobile App,UPI,Delivered
+ORD101315,2024-09-16,C1350,P1011,Office Backpack,Lifestyle,1,2197.19,0.0,Mumbai,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD101316,2024-10-29,C1226,P1009,Water Bottle,Lifestyle,1,506.71,0.0,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD101317,2025-11-20,C1369,P1010,Laptop Stand,Electronics,3,1542.91,0.25,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD101318,2023-02-15,C1103,P1003,Bluetooth Speaker,Electronics,1,2405.01,0.0,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101319,2023-07-20,C1249,P1003,Bluetooth Speaker,Electronics,1,2577.6,0.15,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD101320,2024-11-19,C1402,P1009,Water Bottle,Lifestyle,2,471.61,0.15,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD101321,2025-01-14,C1017,P1003,Bluetooth Speaker,Electronics,1,2685.92,0.05,Jaipur,Rajasthan,Marketplace,UPI,Delivered
+ORD101322,2024-03-14,C1375,P1008,LED Desk Lamp,Home Office,1,1295.72,0.1,Delhi,Delhi,Mobile App,Cash on Delivery,Delivered
+ORD101323,2025-04-03,C1021,P1005,Gel Pen Pack,Stationery,2,156.95,0.0,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD101324,2023-07-14,C1443,P1008,LED Desk Lamp,Home Office,1,1198.27,0.0,Hyderabad,Telangana,Mobile App,Cash on Delivery,Delivered
+ORD101325,2025-08-31,C1224,P1004,Notebook Set,Stationery,2,298.8,0.15,JAIPUR,Rajasthan,Marketplace,UPI,Delivered
+ORD101326,2024-09-10,C1175,P1004,Notebook Set,Stationery,2,315.7,0.05,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD101327,2024-02-14,C1022,P1006,Desk Organizer,Home Office,5,649.75,0.0,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD101328,2025-07-17,C1408,P1009,Water Bottle,Lifestyle,1,491.59,0.1,Pune,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101329,2024-01-18,C1226,P1006,Desk Organizer,Home Office,3,585.35,0.1,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD101330,2024-07-02,C1430,P1004,Notebook Set,Stationery,1,294.29,0.25,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD101331,2025-08-05,C1218,P1001,Wireless Mouse,Electronics,2,900.58,0.2,Pune,Maharashtra,Marketplace,Debit Card,Delivered
+ORD101332,2025-06-10,C1029,P1007,Ergonomic Chair,Furniture,1,9534.12,0.15,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD101333,2024-02-21,C1388,P1010,Laptop Stand,Electronics,1,1503.39,0.1,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101334,2024-06-09,C1442,P1002,USB-C Hub,Electronics,1,1908.06,0.1,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD101335,2024-01-29,C1385,P1010,Laptop Stand,Electronics,3,1677.69,0.15,Ahmedabad,Gujarat,Marketplace,Debit Card,Delivered
+ORD101336,2025-08-08,C1446,P1001,Wireless Mouse,Electronics,2,781.51,0.0,Kolkata,West Bengal,Retail Store,UPI,Delivered
+ORD101337,2024-02-18,C1071,P1010,Laptop Stand,Electronics,2,1728.98,0.25,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD101338,2024-07-22,C1048,P1011,Office Backpack,LIFESTYLE,1,2351.45,0.15,Pune,Maharashtra,Website,Net Banking,Returned
+ORD101339,2023-02-10,C1392,P1002,USB-C Hub,Electronics,1,2045.31,0.0,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD101340,2023-05-11,C1412,P1004,Notebook Set,Stationery,1,281.41,0.0,Jaipur,Rajasthan,Mobile App,UPI,Delivered
+ORD101341,2025-03-23,C1448,P1011,Office Backpack,Lifestyle,3,2214.64,0.0,Pune,Maharashtra,Marketplace,Cash on Delivery,Delivered
+ORD101342,2023-09-05,C1370,P1005,Gel Pen Pack,Stationery,1,137.22,0.15,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD101343,2023-09-08,C1449,P1006,Desk Organizer,Home Office,1,591.07,0.0,Hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD101344,2024-04-28,C1025,P1003,Bluetooth Speaker,Electronics,1,2482.54,0.1,Jaipur,Rajasthan,Marketplace,Credit Card,Delivered
+ORD101345,2024-03-14,C1383,P1003,Bluetooth Speaker,Electronics,1,2315.32,0.0,Delhi,Delhi,Retail Store,Cash on Delivery,Delivered
+ORD101346,2023-04-25,C1396,P1007,Ergonomic Chair,Furniture,2,9635.74,0.1,Kolkata,West Bengal,Mobile App,UPI,Delivered
+ORD101347,2024-10-10,C1182,P1002,USB-C Hub,Electronics,1,1854.39,0.2,Jaipur,Rajasthan,Retail Store,Debit Card,Delivered
+ORD101348,2023-10-24,C1151,P1006,Desk Organizer,Home Office,1,580.49,0.0,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101349,2023-02-13,C1414,P1001,Wireless Mouse,Electronics,1,759.94,0.15,Ahmedabad,Gujarat,Website,Credit Card,Delivered
+ORD101350,2024-06-02,C1049,P1006,Desk Organizer,Home Office,2,587.51,0.0,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101351,2023-09-07,C1386,P1002,USB-C Hub,Electronics,1,1931.97,0.0,Bengaluru,Karnataka,Retail Store,Net Banking,Delivered
+ORD101352,2024-06-07,C1383,P1001,Wireless Mouse,Electronics,2,801.86,0.0,Delhi,Delhi,Website,Credit Card,Delivered
+ORD101353,2024-09-01,C1157,P1009,Water Bottle,Lifestyle,1,468.96,0.1,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD101354,2025-04-12,C1025,P1008,LED Desk Lamp,Home Office,4,1328.9,0.0,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD101355,2025-08-22,C1242,P1008,LED Desk Lamp,Home Office,1,1369.86,0.0,JAIPUR,Rajasthan,Mobile App,UPI,Delivered
+ORD101356,2023-11-25,C1107,P1011,Office Backpack,Lifestyle,3,2183.69,0.25,Delhi,Delhi,Website,Cash on Delivery,Delivered
+ORD101357,2024-10-31,C1441,P1002,USB-C Hub,Electronics,1,1940.88,0.0,Kolkata,West Bengal,Website,Credit Card,Delivered
+ORD101358,2025-06-27,C1034,P1005,Gel Pen Pack,Stationery,1,167.65,0.05,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD101359,2024-10-04,C1344,P1005,Gel Pen Pack,Stationery,1,158.94,0.0,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101360,2023-09-24,C1445,P1001,Wireless Mouse,Electronics,1,828.38,0.05,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101361,2024-06-17,C1030,P1004,Notebook Set,Stationery,1,275.36,0.1,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD101362,2023-06-22,C1133,P1001,Wireless Mouse,Electronics,1,822.17,0.15,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD101363,2024-04-04,C1119,P1004,Notebook Set,Stationery,1,323.72,0.0,Ahmedabad,Gujarat,Website,Cash on Delivery,Delivered
+ORD101364,2024-04-13,C1352,P1002,USB-C Hub,Electronics,1,1808.19,0.0,Mumbai,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101365,2023-04-12,C1044,P1008,LED Desk Lamp,Home Office,2,1338.66,0.15,Jaipur,Rajasthan,Retail Store,Credit Card,Delivered
+ORD101366,2023-07-02,C1131,P1004,Notebook Set,Stationery,3,312.35,0.15,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101367,2023-01-29,C1325,P1004,Notebook Set,Stationery,1,296.56,0.0,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD101368,2023-08-31,C1069,P1005,Gel Pen Pack,STATIONERY,1,137.18,0.2,Bengaluru,Karnataka,Marketplace,Debit Card,Delivered
+ORD101369,2024-08-12,C1311,P1007,Ergonomic Chair,Furniture,1,9151.91,0.2,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101370,2024-03-17,C1005,P1008,LED Desk Lamp,Home Office,2,1296.71,0.05,Delhi,Delhi,Marketplace,Net Banking,Delivered
+ORD101371,2023-10-26,C1315,P1012,Monitor,Electronics,1,12825.79,0.05,Ahmedabad,Gujarat,Mobile App,Credit Card,Returned
+ORD101372,2025-07-12,C1438,P1005,Gel Pen Pack,Stationery,5,161.18,0.05,Bengaluru,Karnataka,Mobile App,Net Banking,Delivered
+ORD101373,2023-06-25,C1168,P1005,Gel Pen Pack,Stationery,1,150.45,0.15,Ahmedabad,Gujarat,Retail Store,Debit Card,Delivered
+ORD101374,2025-03-25,C1059,P1008,LED Desk Lamp,Home Office,1,1410.08,0.15,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD101375,2024-06-08,C1119,P1008,LED Desk Lamp,Home Office,2,1380.53,0.0,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD101376,2024-11-12,C1213,P1002,USB-C Hub,Electronics,1,1761.33,0.05,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD101377,2023-04-04,C1355,P1002,USB-C Hub,Electronics,1,2066.61,0.1,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD101378,2024-09-11,C1380,P1006,Desk Organizer,Home Office,1,570.02,0.0,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD101379,2023-03-26,C1305,P1005,Gel Pen Pack,Stationery,1,137.88,0.2,Pune,Maharashtra,Mobile App,Net Banking,Delivered
+ORD101380,2024-11-25,C1407,P1001,Wireless Mouse,Electronics,2,786.97,0.1,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD101381,2025-06-05,C1112,P1002,USB-C Hub,Electronics,1,2050.52,0.0,Pune,Maharashtra,Mobile App,UPI,Delivered
+ORD101382,2023-09-19,C1022,P1005,Gel Pen Pack,Stationery,1,142.55,0.1,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101383,2024-08-02,C1066,P1006,Desk Organizer,Home Office,1,600.52,0.05,Delhi,Delhi,Mobile App,Net Banking,Delivered
+ORD101384,2023-12-04,C1434,P1005,Gel Pen Pack,Stationery,1,160.08,0.1,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101385,2025-06-20,C1369,P1003,Bluetooth Speaker,Electronics,1,2424.22,0.05,Ahmedabad,Gujarat,Marketplace,Credit Card,Delivered
+ORD101386,2024-01-11,C1011,P1008,LED Desk Lamp,Home Office,3,1320.05,0.1,Ahmedabad,Gujarat,Retail Store,Net Banking,Delivered
+ORD101387,2025-06-12,C1080,P1001,Wireless Mouse,Electronics,2,788.08,0.0,Mumbai,Maharashtra,Retail Store,Debit Card,Delivered
+ORD101388,2025-09-20,C1079,P1012,Monitor,Electronics,4,13853.74,0.05,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101389,2023-09-11,C1375,P1003,Bluetooth Speaker,Electronics,1,2450.75,0.2,Hyderabad,Telangana,Website,Debit Card,Delivered
+ORD101390,2024-01-05,C1322,P1011,Office Backpack,Lifestyle,2,2064.48,0.1,Pune,Maharashtra,Mobile App,Cash on Delivery,Delivered
+ORD101391,2024-03-10,C1111,P1011,Office Backpack,Lifestyle,1,2043.38,0.15,Ahmedabad,Gujarat,Marketplace,UPI,Delivered
+ORD101392,2024-05-19,C1212,P1005,Gel Pen Pack,Stationery,3,138.97,0.15,Kolkata,West Bengal,Website,UPI,Delivered
+ORD101393,2024-08-05,C1017,P1001,Wireless Mouse,Electronics,1,765.14,0.1,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD101394,2024-10-24,C1296,P1001,Wireless Mouse,Electronics,1,833.85,0.0,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD101395,2025-07-18,C1296,P1009,Water Bottle,Lifestyle,1,545.36,0.0,Delhi,Delhi,Website,UPI,Delivered
+ORD101396,2025-07-16,C1352,P1005,Gel Pen Pack,Stationery,1,164.65,0.1,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101397,2024-08-02,C1228,P1012,Monitor,Electronics,1,13927.55,0.15,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD101398,2025-02-20,C1051,P1012,Monitor,Electronics,3,14715.05,0.0,Mumbai,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101399,2025-03-27,C1359,P1010,Laptop Stand,Electronics,2,1608.76,0.25,Mumbai,Maharashtra,Website,Credit Card,Delivered
+ORD101400,2025-03-06,C1153,P1003,Bluetooth Speaker,Electronics,1,2621.44,0.0,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101401,2023-09-04,C1326,P1001,Wireless Mouse,Electronics,2,850.35,0.05,Delhi,Delhi,Retail Store,Debit Card,Delivered
+ORD101402,2023-09-26,C1400,P1009,Water Bottle,Lifestyle,1,530.84,0.25,Hyderabad,Telangana,Website,Cash on Delivery,Delivered
+ORD101403,2024-02-14,C1069,P1009,Water Bottle,Lifestyle,1,504.17,0.15,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD101404,2024-07-03,C1332,P1006,Desk Organizer,Home Office,2,574.59,0.05,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD101405,2024-01-17,C1390,P1001,Wireless Mouse,Electronics,2,760.11,0.2,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD101406,2024-11-30,C1037,P1007,Ergonomic Chair,Furniture,1,8661.27,0.1,Kolkata,West Bengal,Marketplace,Credit Card,Delivered
+ORD101407,2025-10-11,C1431,P1006,Desk Organizer,Home Office,1,652.15,0.05,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101408,2025-09-05,C1238,P1005,Gel Pen Pack,Stationery,1,146.54,0.15,Delhi,Delhi,Marketplace,Debit Card,Cancelled
+ORD101409,2024-05-24,C1393,P1011,Office Backpack,Lifestyle,3,2191.97,0.05,Jaipur,Rajasthan,Mobile App,Cash on Delivery,Delivered
+ORD101410,2023-06-06,C1333,P1008,LED Desk Lamp,Home Office,4,1355.63,0.1,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD101411,2023-07-13,C1310,P1010,Laptop Stand,Electronics,3,1678.54,0.1,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD101412,2023-06-17,C1047,P1004,Notebook Set,Stationery,1,291.76,0.2,Ahmedabad,Gujarat,Website,Net Banking,Delivered
+ORD101413,2024-01-03,C1229,P1006,Desk Organizer,Home Office,1,616.19,0.1,Pune,Maharashtra,Retail Store,Net Banking,Delivered
+ORD101414,2024-09-01,C1106,P1002,USB-C Hub,Electronics,3,1862.98,0.1,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD101415,2024-06-26,C1093,P1007,Ergonomic Chair,Furniture,2,9627.11,0.0,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101416,2024-06-15,C1163,P1012,Monitor,Electronics,2,12587.33,0.0,Mumbai,Maharashtra,Retail Store,UPI,Delivered
+ORD101417,2025-03-19,C1134,P1011,Office Backpack,Lifestyle,1,2283.94,0.15,Mumbai,Maharashtra,Website,Net Banking,Delivered
+ORD101418,2025-07-31,C1085,P1011,Office Backpack,Lifestyle,2,2396.79,0.0,Jaipur,Rajasthan,Retail Store,Cash on Delivery,Delivered
+ORD101419,2025-01-08,C1395,P1004,Notebook Set,Stationery,1,337.69,0.0,Jaipur,Rajasthan,Mobile App,Credit Card,Delivered
+ORD101420,2023-01-29,C1170,P1002,USB-C Hub,Electronics,2,1850.02,0.0,Bengaluru,Karnataka,Website,Credit Card,Delivered
+ORD101421,2023-02-24,C1271,P1009,Water Bottle,Lifestyle,2,472.27,0.1,Bengaluru,Karnataka,Retail Store,Credit Card,Delivered
+ORD101422,2025-06-11,C1038,P1010,Laptop Stand,Electronics,1,1588.63,0.0,Bengaluru,Karnataka,Website,Net Banking,Delivered
+ORD101423,2023-10-31,C1237,P1002,USB-C Hub,Electronics,2,2057.71,0.0,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101424,2023-11-09,C1237,P1008,LED Desk Lamp,Home Office,1,1199.06,0.15,Kolkata,West Bengal,Retail Store,Net Banking,Delivered
+ORD101425,2024-05-11,C1196,P1012,Monitor,Electronics,1,12307.09,0.1,Bengaluru,Karnataka,Mobile App,Net Banking,Delivered
+ORD101426,2023-04-15,C1280,P1003,Bluetooth Speaker,Electronics,3,2592.6,0.05,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD101427,2025-05-01,C1238,P1008,LED Desk Lamp,Home Office,2,1261.29,0.0,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101428,2025-09-22,C1417,P1001,Wireless Mouse,Electronics,1,830.41,0.0,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD101429,2023-02-08,C1186,P1005,Gel Pen Pack,Stationery,1,160.3,0.1,Jaipur,Rajasthan,Mobile App,Debit Card,Delivered
+ORD101430,2025-05-04,C1111,P1005,Gel Pen Pack,Stationery,1,150.84,0.2,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD101431,2025-07-07,C1259,P1006,Desk Organizer,Home Office,3,661.87,0.15,Jaipur,Rajasthan,Website,Credit Card,Delivered
+ORD101432,2025-08-19,C1005,P1003,Bluetooth Speaker,Electronics,1,2695.94,0.1,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101433,2024-11-25,C1308,P1010,Laptop Stand,Electronics,1,1548.46,0.1,Kolkata,West Bengal,Marketplace,Net Banking,Delivered
+ORD101434,2025-05-03,C1045,P1004,Notebook Set,Stationery,2,325.56,0.1,Hyderabad,Telangana,Retail Store,Credit Card,Delivered
+ORD101435,2024-02-29,C1326,P1006,Desk Organizer,Home Office,2,573.99,0.15,Delhi,Delhi,Website,Credit Card,Delivered
+ORD101436,2023-12-21,C1162,P1009,Water Bottle,Lifestyle,1,506.24,0.2,Bengaluru,Karnataka,Marketplace,UPI,Delivered
+ORD101437,2025-05-01,C1113,P1009,Water Bottle,Lifestyle,4,553.86,0.05,Kolkata,West Bengal,Mobile App,Cash on Delivery,Delivered
+ORD101438,2023-04-07,C1004,P1008,LED Desk Lamp,Home Office,5,1320.61,0.0,Ahmedabad,Gujarat,Mobile App,Debit Card,Delivered
+ORD101439,2023-11-21,C1021,P1010,Laptop Stand,Electronics,1,1538.17,0.05,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD101440,2025-05-31,C1002,P1009,Water Bottle,Lifestyle,1,554.06,0.15,Mumbai,Maharashtra,Marketplace,Credit Card,Delivered
+ORD101441,2025-09-23,C1439,P1011,Office Backpack,Lifestyle,1,2360.24,0.0,Delhi,Delhi,Mobile App,UPI,Delivered
+ORD101442,2024-07-01,C1262,P1012,Monitor,Electronics,1,13428.16,0.2,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD101443,2025-07-25,C1073,P1011,Office Backpack,Lifestyle,1,2275.83,0.1,Mumbai,Maharashtra,Website,Cash on Delivery,Delivered
+ORD101444,2023-07-28,C1119,P1005,Gel Pen Pack,Stationery,2,160.25,0.05,Ahmedabad,Gujarat,Website,UPI,Delivered
+ORD101445,2024-02-25,C1261,P1011,Office Backpack,Lifestyle,2,2038.31,0.2,Hyderabad,Telangana,Marketplace,Net Banking,Delivered
+ORD101446,2025-11-02,C1005,P1001,Wireless Mouse,Electronics,2,845.76,0.15,Kolkata,West Bengal,Website,Debit Card,Delivered
+ORD101447,2024-11-16,C1067,P1002,USB-C Hub,Electronics,2,1795.34,0.1,Pune,Maharashtra,Website,Net Banking,Delivered
+ORD101448,2025-05-01,C1030,P1009,Water Bottle,Lifestyle,2,496.03,0.05,Ahmedabad,Gujarat,Marketplace,Net Banking,Delivered
+ORD101449,2024-11-30,C1437,P1005,Gel Pen Pack,Stationery,1,142.64,0.05,Delhi,Delhi,Marketplace,Debit Card,Delivered
+ORD101450,2025-04-29,C1105,P1012,Monitor,Electronics,1,12498.11,0.1,Hyderabad,Telangana,Marketplace,Cash on Delivery,Delivered
+ORD101451,2025-05-13,C1038,P1004,Notebook Set,Stationery,5,323.34,0.0,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD101452,2025-04-18,C1016,P1005,Gel Pen Pack,Stationery,1,145.8,0.1,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101453,2023-10-26,C1228,P1009,Water Bottle,Lifestyle,3,480.01,0.2,Ahmedabad,Gujarat,Website,Debit Card,Delivered
+ORD101454,2025-04-02,C1024,P1006,Desk Organizer,Home Office,1,662.7,0.0,Pune,Maharashtra,Retail Store,UPI,Delivered
+ORD101455,2023-11-06,C1252,P1009,Water Bottle,Lifestyle,1,532.33,0.0,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD101456,2024-09-15,C1197,P1010,Laptop Stand,Electronics,1,1514.55,0.05,Hyderabad,Telangana,Mobile App,Debit Card,Delivered
+ORD101457,2025-12-16,C1385,P1002,USB-C Hub,Electronics,3,1894.09,0.1,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101458,2025-06-24,C1420,P1004,Notebook Set,Stationery,1,336.0,0.1,Hyderabad,Telangana,Retail Store,Debit Card,Delivered
+ORD101459,2023-06-22,C1311,P1007,Ergonomic Chair,Furniture,1,9222.34,0.2,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD101460,2025-12-01,C1161,P1009,Water Bottle,Lifestyle,1,534.36,0.1,Delhi,Delhi,Marketplace,Cash on Delivery,Delivered
+ORD101461,2024-10-01,C1195,P1008,LED Desk Lamp,Home Office,1,1362.38,0.25,Hyderabad,Telangana,Marketplace,Cash on Delivery,Delivered
+ORD101462,2024-06-13,C1108,P1012,Monitor,Electronics,3,13288.86,0.15,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD101463,2023-08-15,C1081,P1006,Desk Organizer,Home Office,1,551.44,0.25,Ahmedabad,Gujarat,Mobile App,Cash on Delivery,Delivered
+ORD101464,2024-12-26,C1184,P1011,Office Backpack,Lifestyle,1,2118.09,0.15,Mumbai,Maharashtra,Website,UPI,Delivered
+ORD101465,2025-07-08,C1196,P1010,Laptop Stand,Electronics,5,1628.61,0.0,Delhi,Delhi,Website,Credit Card,Delivered
+ORD101466,2025-12-28,C1381,P1003,Bluetooth Speaker,Electronics,1,2565.14,0.0,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
+ORD101467,2023-10-14,C1052,P1004,Notebook Set,Stationery,1,312.3,0.0,Jaipur,Rajasthan,Marketplace,Cash on Delivery,Delivered
+ORD101468,2024-01-30,C1225,P1011,Office Backpack,Lifestyle,1,2063.67,0.0,Hyderabad,Telangana,Retail Store,Net Banking,Delivered
+ORD101469,2025-04-23,C1322,P1003,Bluetooth Speaker,Electronics,1,2440.36,0.25,Mumbai,Maharashtra,Website,Credit Card,Delivered
+ORD101470,2025-09-02,C1008,P1002,USB-C Hub,Electronics,1,2102.9,0.0,Bengaluru,Karnataka,Retail Store,Cash on Delivery,Delivered
+ORD101471,2025-04-04,C1121,P1010,Laptop Stand,Electronics,1,1530.73,0.05,Jaipur,Rajasthan,Mobile App,Net Banking,Delivered
+ORD101472,2025-06-20,C1167,P1001,Wireless Mouse,Electronics,3,855.15,0.1,Kolkata,West Bengal,Retail Store,Credit Card,Delivered
+ORD101473,2025-11-01,C1091,P1009,Water Bottle,Lifestyle,2,482.78,0.2,Pune,Maharashtra,Retail Store,Credit Card,Delivered
+ORD101474,2025-11-17,C1417,P1007,Ergonomic Chair,Furniture,2,9028.54,0.0,Mumbai,Maharashtra,Marketplace,UPI,Delivered
+ORD101475,2023-11-18,C1317,P1010,Laptop Stand,Electronics,1,1477.52,0.15,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD101476,2023-08-14,C1007,P1003,Bluetooth Speaker,Electronics,1,2565.97,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101477,2025-12-06,C1033,P1001,Wireless Mouse,Electronics,3,808.48,0.1,Pune,Maharashtra,Website,Debit Card,Delivered
+ORD101478,2024-09-13,C1414,P1012,Monitor,Electronics,2,13119.45,0.1,Delhi,Delhi,Retail Store,Credit Card,Delivered
+ORD101479,2023-10-19,C1170,P1008,LED Desk Lamp,Home Office,4,1369.1,0.05,Jaipur,Rajasthan,Website,Debit Card,Delivered
+ORD101480,2024-08-03,C1421,P1004,Notebook Set,Stationery,3,281.98,0.2,Bengaluru,Karnataka,Marketplace,Net Banking,Delivered
+ORD101481,2023-01-05,C1115,P1009,Water Bottle,Lifestyle,2,499.54,0.0,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101482,2025-05-05,C1217,P1011,Office Backpack,Lifestyle,1,2228.68,0.1,Kolkata,West Bengal,Mobile App,Debit Card,Delivered
+ORD101483,2025-02-11,C1196,P1009,Water Bottle,Lifestyle,1,515.88,0.2,Kolkata,West Bengal,Marketplace,Cash on Delivery,Delivered
+ORD101484,2025-08-01,C1222,P1001,Wireless Mouse,Electronics,1,857.79,0.2,Kolkata,West Bengal,Retail Store,Debit Card,Delivered
+ORD101485,2023-07-02,C1268,P1010,Laptop Stand,Electronics,1,1566.98,0.2,Jaipur,Rajasthan,Retail Store,Net Banking,Delivered
+ORD101486,2024-11-25,C1348,P1011,Office Backpack,Lifestyle,1,2200.83,0.1,Ahmedabad,Gujarat,Retail Store,UPI,Delivered
+ORD101487,2023-12-06,C1027,P1011,Office Backpack,Lifestyle,2,2193.64,0.0,Ahmedabad,Gujarat,Mobile App,UPI,Delivered
+ORD101488,2023-06-24,C1412,P1004,Notebook Set,Stationery,1,311.77,0.1,Bengaluru,Karnataka,Website,Cash on Delivery,Delivered
+ORD101489,2024-01-23,C1106,P1008,LED Desk Lamp,Home Office,4,1222.11,0.1,Kolkata,West Bengal,Website,Cash on Delivery,Delivered
+ORD101490,2024-01-04,C1194,P1006,Desk Organizer,Home Office,1,605.21,0.1,Ahmedabad,Gujarat,Mobile App,Credit Card,Delivered
+ORD101491,2025-06-28,C1071,P1002,USB-C Hub,Electronics,3,1921.51,0.1,Mumbai,Maharashtra,Mobile App,UPI,Delivered
+ORD101492,2025-10-03,C1237,P1008,LED Desk Lamp,Home Office,3,1412.81,0.2,Ahmedabad,Gujarat,Mobile App,Net Banking,Delivered
+ORD101493,2023-02-19,C1282,P1005,Gel Pen Pack,Stationery,1,146.68,0.05,Hyderabad,Telangana,Retail Store,UPI,Delivered
+ORD101494,2023-07-23,C1113,P1002,USB-C Hub,Electronics,1,1872.8,0.0,Pune,Maharashtra,Mobile App,Debit Card,Delivered
+ORD101495,2023-07-03,C1124,P1009,Water Bottle,Lifestyle,2,527.47,0.1,Pune,Maharashtra,Mobile App,Credit Card,Delivered
+ORD101496,2023-05-01,C1064,P1011,Office Backpack,Lifestyle,2,2059.82,0.25,Hyderabad,Telangana,Marketplace,UPI,Delivered
+ORD101497,2024-09-02,C1007,P1008,LED Desk Lamp,Home Office,2,1268.37,0.1,Jaipur,Rajasthan,Website,Net Banking,Delivered
+ORD101498,2024-10-25,C1162,P1004,Notebook Set,Stationery,1,275.51,0.0,Delhi,Delhi,Retail Store,UPI,Delivered
+ORD101499,2023-04-17,C1045,P1008,LED Desk Lamp,Home Office,1,1295.66,0.15,Bengaluru,Karnataka,Marketplace,Cash on Delivery,Delivered
+ORD101156,2023-09-06,C1443,P1002,USB-C Hub,Electronics,1,1802.0,0.0,hyderabad,Telangana,Mobile App,Net Banking,Delivered
+ORD100172,2025-10-25,C1404,P1001,Wireless Mouse,Electronics,3,851.94,0.0,Hyderabad,Telangana,Website,Net Banking,Delivered
+ORD100759,2023-04-26,C1105,P1008,LED Desk Lamp,Home Office,2,1207.73,0.2,Bengaluru,Karnataka,Mobile App,Credit Card,Delivered
+ORD100284,2024-03-30,C1198,P1011,Office Backpack,Lifestyle,2,2157.16,0.05,Kolkata,West Bengal,Mobile App,Net Banking,Delivered
+ORD101462,2024-06-13,C1108,P1012,Monitor,Electronics,3,13288.86,0.15,Bengaluru,Karnataka,Mobile App,Cash on Delivery,Delivered
